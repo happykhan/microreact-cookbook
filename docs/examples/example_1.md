@@ -1,3 +1,12 @@
+---
+title: Example one test
+description: Microreact can be used to explore complex relationships between geography, phylogeny and other contextual information
+icon: material/emoticon-happy
+status: new
+authors:
+    - Nabil-Fareed Alikhan
+date: 2018-07-10
+---
 
 Microreact can be used to explore complex relationships between geography, phylogeny and other contextual information. In this example we will look at at an existing published dataset.
 
@@ -10,7 +19,7 @@ The microreact project is available [via this link](https://microreact.org/proje
 
 ## About this dataset 
 
-This example shows data presented in Afolayan et al. "An ST131 clade and a phylogroup A clade bearing an O101-like O-antigen cluster predominate among bloodstream Escherichia coli isolates from South-West Nigeria hospitals Open Access", published in 2022 in *Microbial Genomics*. [https://doi.org/10.1099/mgen.0.000863](https://doi.org/10.1099/mgen.0.000863)
+This example shows data presented in Afolayan et al. "An ST131 clade and a phylogroup A clade bearing an O101-like O-antigen cluster predominate among bloodstream Escherichia coli isolates from South-West Nigeria hospitals Open Access", published in 2022 in *Microbial Genomics*. [https://doi.org/10.1099/mgen.0.000863](https://doi.org/10.1099/mgen.0.000863)[^1]
 
 The study focuses on Escherichia coli bloodstream infections in Nigeria, highlighting their severity and the importance of managing them effectively. It notes the lack of comprehensive data in Nigeria regarding prevalent E. coli lineages, disease-causing attributes, and suitable drugs for treatment. The research conducted antimicrobial susceptibility testing on 68 bloodstream E. coli isolates from three Nigerian hospitals and utilized whole-genome sequencing (WGS) to analyze and characterize these strains.
 
@@ -34,3 +43,5 @@ cat *
 ``` py
 import tensorflow as tf
 ```
+
+[^1]: Afolayan AO, Aboderin AO, Oaikhena AO, Odih EE, Ogunleye VO, Adeyemo AT, Adeyemo AT, Bejide OS, Underwood A, Argimón S, Abrudan M, Egwuenu A, Ihekweazu C, Aanensen DM, Okeke IN. An ST131 clade and a phylogroup A clade bearing an O101-like O-antigen cluster predominate among bloodstream Escherichia coli isolates from South-West Nigeria hospitals. Microb Genom. 2022 Dec;8(12):mgen000863. doi: [10.1099/mgen.0.000863](https://doi.org/10.1099/mgen.0.000863). PMID: 36748556; PMCID: PMC9837563.

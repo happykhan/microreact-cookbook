@@ -1,6 +1,7 @@
 # Welcome to the Microreact Cookbook
 
-This is a *cookbook* for Microreact.
+This is a *cookbook* for Microreact. Available at https://happykhan.github.io/microreact-cookbook/ 
+
 
 ## About Microreact 
 
