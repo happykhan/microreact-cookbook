@@ -27,3 +27,12 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
+
+## How to contribute
+
+Contributions are welcome, either via a direct commit or as a pull request. Recipes and tutorials are written in markdown in the `docs` folder. 
+
+* Examples should be self contained examples, with all the required raw data. 
+* Try to show one, perhaps two, features in a single example 
+* Keep it brief 
+* Copy and use the template in `example-template` for consistency. 
