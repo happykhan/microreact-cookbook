@@ -1,5 +1,5 @@
 ---
-title: Example one test
+title: Comparing geography, phylogeny and other contextual information
 description: Microreact can be used to explore complex relationships between geography, phylogeny and other contextual information
 icon: material/emoticon-happy
 status: new
