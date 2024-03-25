@@ -1,11 +1,3 @@
----
-date: 2024-03-22
-title: Comparing geography, phylogeny and more
-slug: afolayan-2022
-authors:
-tags:
-  - examples
----
 
 Microreact can be used to explore complex relationships between geography, phylogeny and other contextual information. In this example we will look at at an existing published dataset.
 
