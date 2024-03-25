@@ -36,3 +36,13 @@ Contributions are welcome, either via a direct commit or as a pull request. Reci
 * Try to show one, perhaps two, features in a single example 
 * Keep it brief 
 * Copy and use the template in `example-template` for consistency. 
+
+## Wishlist of recipies 
+
+Please add ideas for recipies here. 
+
+* Charting with Vega.
+* Standard metadata + tree vis. 
+* Tree vis + metadata blocks. 
+* Building multiple views.
+* Exporting images - for a publication. 
