@@ -1,38 +1,30 @@
 ---
-title: Comparing geography, phylogeny and other contextual information
-description: Microreact can be used to explore complex relationships between geography, phylogeny and other contextual information
+title: Showing metadata alongside a phylogenetic tree
+description: Microreact can be used to compare phylogeny and other contextual information
 status: new
 authors:
     - Nabil-Fareed Alikhan
 date: 2024-03-26
 ---
 
-Microreact can be used to explore complex relationships between geography, phylogeny and other contextual information. In this example we will look at at an existing published dataset.
+Microreact can be used to compare phylogeny and other contextual information. In this example we will look at at an existing published dataset and customise the information shown along side the tree. We are aiming to produce a figure like the one below, which shows the drug resistance (red) along side the genetic relationship for a group of seqeunced isolates.
 
-The microreact project is available [via this link](https://microreact.org/project/hmj3KwxS1dmmFPCKFx6qeA-invasive-escherichia-coli-sw-nigeria-2016-2018)
-
-![Map output from Microreact](./recipe-1/map.png)
+![Map output from Microreact](./recipe-1/tree-example.png)
 
 ## Microreact features demonstrated
 
-* Comparing evolutionary relationships (phylogeny) with spatial information.
 * Overlaying additional genetic data (AMR prediction & genotyping) with evolutionary relationships 
-
+* Basic customisation of visulised trees
 
 ## About this dataset 
 
-This example shows data presented in Afolayan et al. "An ST131 clade and a phylogroup A clade bearing an O101-like O-antigen cluster predominate among bloodstream Escherichia coli isolates from South-West Nigeria hospitals Open Access", published in 2022 in *Microbial Genomics*. [https://doi.org/10.1099/mgen.0.000863](https://doi.org/10.1099/mgen.0.000863)[^1]
+This example shows data presented in Afolayan et al. (2022)[^1]. The study focuses on Escherichia coli bloodstream infections in Nigeria, highlighting their severity and the importance of managing them effectively. It notes the lack of comprehensive data in Nigeria regarding prevalent E. coli lineages, disease-causing attributes, and suitable drugs for treatment. The research conducted antimicrobial susceptibility testing on 68 bloodstream E. coli isolates from three Nigerian hospitals and utilized whole-genome sequencing (WGS) to analyze and characterize these strains.
 
-The study focuses on Escherichia coli bloodstream infections in Nigeria, highlighting their severity and the importance of managing them effectively. It notes the lack of comprehensive data in Nigeria regarding prevalent E. coli lineages, disease-causing attributes, and suitable drugs for treatment. The research conducted antimicrobial susceptibility testing on 68 bloodstream E. coli isolates from three Nigerian hospitals and utilized whole-genome sequencing (WGS) to analyze and characterize these strains.
-
-The findings revealed the presence of globally disseminated, high-risk E. coli lineages among the isolates, notably sequence type 131, which is prevalent worldwide. Additionally, lesser-known genetically related strains carrying surface features likely acquired from Klebsiella bacteria were identified, necessitating further investigation. The study also uncovered a previously undetected outbreak caused by a less abundant E. coli lineage through retrospective analysis of the sequence data.
-
-Moreover, the study identified various antimicrobial resistance genes within these E. coli lineages, including those conferring resistance to critical drugs like extended-spectrum cephalosporins used for managing infections in Nigeria. Overall, the research underscores the value of WGS in identifying significant E. coli lineages and potential outbreaks, highlighting its utility in enhancing understanding and management of E. coli infections in Nigeria.
-
+* [Link to Microreact project](https://microreact.org/project/hmj3KwxS1dmmFPCKFx6qeA-invasive-escherichia-coli-sw-nigeria-2016-2018)
 * [Link to metadata table](https://microreact.org/api/files/raw?24b84257a3f709b645d02901978ea98198900fe5)
 * [Link to phylogenetic tree](https://microreact.org/api/files/raw?d73e379972dfb70ef31b371e1ef619d034d5d2dd)
 
-## *Specific Feature*
+## Showing Metadata blocks
 
 *Describe the specific feature and why a user would want this*
 
@@ -40,7 +32,7 @@ Moreover, the study identified various antimicrobial resistance genes within the
 
 *Step by step Instructions on how*
 
-## *Specific Feature 2*
+## Customising the tree view
 
 *Describe the specific feature and why a user would want this*
 

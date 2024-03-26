@@ -4,12 +4,12 @@ This 'cookbook' has a collection of examples or 'recipes' to show you how to mak
 
 ![Showcase image](./showcase.png)
 
-Here are figures from a Microreact project based on data from Dudas et al. (2017)[^1]. You can view the interactive dashboard at [https://microreact.org/project/west-african-ebola-epidemic](https://microreact.org/project/west-african-ebola-epidemic)
+Here are figures from a [Microreact](https://microreact.org/) project based on data from Dudas et al. (2017)[^1]. You can view the interactive dashboard at [https://microreact.org/project/west-african-ebola-epidemic](https://microreact.org/project/west-african-ebola-epidemic)
 
 
 * All examples here use the publicly available version of Microreact at [microreact.org](https://microreact.org/)
 * For detailed description of specific features in Microreact, [please read the manual](https://docs.microreact.org/)
-* If you have feedback and questions about microreact, please see the [contact instructions here](https://docs.microreact.org/feedback/contact)
+* If you have feedback and questions about Microreact, please see the [contact instructions here](https://docs.microreact.org/feedback/contact)
 
 !!! tip 
     Microreact can be installed behind your firewall to enable you to visualise sensitive data safely.
