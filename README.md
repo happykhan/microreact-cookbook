@@ -1,6 +1,6 @@
 # Welcome to the Microreact Cookbook
 
-This is a *cookbook* for Microreact. Available at https://happykhan.github.io/microreact-cookbook/ 
+This is a *cookbook* for Microreact. Available at https://happykhan.github.io/microreact-cookbook/ or https://microreact-cookbook.netlify.app/
 
 
 ## About Microreact 
@@ -35,11 +35,11 @@ Contributions are welcome, either via a direct commit or as a pull request. Reci
 * Examples should be self contained examples, with all the required raw data. 
 * Try to show one, perhaps two, features in a single example 
 * Keep it brief 
-* Copy and use the template in `example-template` for consistency. 
+* Copy and use the template in `recipe-template` for consistency. 
 
-## Wishlist of recipies 
+## Wishlist of recipe 
 
-Please add ideas for recipies here. 
+Please add ideas for recipe here. 
 
 * Charting with Vega.
 * Standard metadata + tree vis. 
