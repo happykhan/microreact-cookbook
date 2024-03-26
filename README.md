@@ -46,3 +46,5 @@ Please add ideas for recipe here.
 * Tree vis + metadata blocks. 
 * Building multiple views.
 * Exporting images - for a publication. 
+* Showing an outbreak in a ward
+* Showing an outbreak across a nation
