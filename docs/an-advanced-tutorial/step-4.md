@@ -15,7 +15,6 @@ We have already [created charts to visualise data](./step-3.md) in our Microreac
 * Showing metadata along side a phylogeny
 * Customising metadata blocks
 
-
 ## Tutorial
 
 You should be using the project we opened in the previous steps. Please see [Creating an editable project](./step-1.md) and follow the instructions if not. Select the "Kpn Colombia" view. Press the icon on the top right of the tree panel.

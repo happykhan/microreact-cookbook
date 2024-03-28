@@ -6,7 +6,7 @@ authors:
 date: 2024-03-25
 ---
 
-You can take an existing project created by someone else, and copy it for your own investigation. This is a required step to continue with the recipes in this section. and is explained here. 
+You can take an existing project created by someone else, and copy it for your own investigation. This is a required step to continue with the recipes in this section and is explained here. 
 
 ## Microreact features demonstrated
 
