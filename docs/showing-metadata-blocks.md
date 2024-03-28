@@ -47,7 +47,7 @@ With these simple steps, you should have a figure in the tree panel similar to t
 
 ![Final output from Microreact](./showing-metadata-blocks/final-tree.png){width="60%"}
 
-Congratulations! you have completed this recipe for Microreact. You can continue by browsing the various recipes listed on the right, and trying to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data. 
+Congratulations! You have completed this recipe for Microreact. You can continue by browsing the various recipes listed on the right, and trying to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data. 
 
 
 [^1]: Afolayan AO, Aboderin AO, Oaikhena AO, Odih EE, Ogunleye VO, Adeyemo AT, Adeyemo AT, Bejide OS, Underwood A, Argimón S, Abrudan M, Egwuenu A, Ihekweazu C, Aanensen DM, Okeke IN. An ST131 clade and a phylogroup A clade bearing an O101-like O-antigen cluster predominate among bloodstream Escherichia coli isolates from South-West Nigeria hospitals. Microb Genom. 2022 Dec;8(12):mgen000863. doi: [10.1099/mgen.0.000863](https://doi.org/10.1099/mgen.0.000863). PMID: 36748556; PMCID: PMC9837563.

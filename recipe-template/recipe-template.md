@@ -3,9 +3,10 @@ title: My recipe title
 description:  My recipe description
 status: new
 authors:
-    - Nabil-Fareed Alikhan
+    - AUTHOR
 date: 2024-03-25
 ---
+*Prepared by AUTHOR. Last updated 2024-03-28*
 
 *Write a brief summary of the recipe here.*
 
