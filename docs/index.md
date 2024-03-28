@@ -30,7 +30,7 @@ Given:
 
 ## How to use this cookbook
 
-The best way to use this cookbook is to browse the various recipes listed on the right, and try to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data.
+The best way to use this cookbook is to browse the various recipes listed on the right, and try to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data. You can save these recipes as a pdf, by using your browser's print function and choosing *Save as pdf* as the printer. 
 
 If you have never used Microreact before, please start with the recipe, [Microreact classic - uploading data](./basic-upload.md). If you are feeling adventurous you can try a [detail tutorial that include a number of recipes here](./an-advanced-tutorial/introduction.md).
 
