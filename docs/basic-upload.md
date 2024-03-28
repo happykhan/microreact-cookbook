@@ -6,6 +6,7 @@ authors:
 date: 2024-03-26
 ---
 
+*Prepared by Nabil-Fareed Alikhan. Last updated 2024-03-28*
 
 This recipe will walk you through the basic usage of Microreact, uploading a tree and metadata file for visualisation. 
 
