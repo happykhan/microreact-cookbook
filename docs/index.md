@@ -20,3 +20,5 @@ Here are figures from a [Microreact](https://microreact.org/) project based on d
 ## How to use this cookbook
 
 The best way to use this cookbook is to browse the various recipes listed on the right, and try to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data.
+
+If you have never used Microreact before, please start with the recipe, [Microreact classic - uploading data](./basic-upload.md)

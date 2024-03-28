@@ -7,9 +7,12 @@ authors:
 date: 2024-03-26
 ---
 
-Microreact can be used to compare phylogeny and other contextual information. In this example we will look at at an existing published dataset and customise the information shown along side the tree. We are aiming to produce a figure like the one below, which shows the drug resistance (red) along side the genetic relationship for a group of seqeunced isolates.
+Microreact can be used to compare a phylogeny with other contextual information. In this example we will look at at an existing published dataset and customise the information shown along side the tree. We are aiming to produce a figure like the one below, which shows the drug resistance (red) along side the genetic relationship for a group of seqeunced isolates.
 
-![Map output from Microreact](./recipe-1/tree-example.png)
+![Map output from Microreact](./showing-metadata-blocks/tree-example.png)
+
+!!! tip 
+    Please complete prequisite recipe about [uploading to Microreact](./basic-upload.md). 
 
 ## Microreact features demonstrated
 
