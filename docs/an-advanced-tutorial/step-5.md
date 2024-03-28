@@ -6,6 +6,15 @@ authors:
 date: 2024-03-25
 ---
 
+
+## Microreact features demonstrated
+
+* Creating a new panel 
+* Creating a standard stacked bar plot 
+
+### Tutorial
+
+
 Go to the "Metadata blocks" and check the ST box.
 
 ![Task 5: Which STs are associated with the presence of carbapenamase genes? Step 1: Go to the "Metadata blocks" and check the ST box.](tutorial/metadata_ST.png){width="50%"}

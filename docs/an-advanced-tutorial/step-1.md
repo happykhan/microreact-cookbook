@@ -6,6 +6,15 @@ authors:
 date: 2024-03-25
 ---
 
+You can take an existing project created by someone else, and copy it for your own investigation. This is a required step to continue with the recipes in this section. and is explained here. 
+
+## Microreact features demonstrated
+
+* Opening a Microreact project
+* Creating your own copy of a project
+
+## Tutorial
+
 The dataset used through these recipes is already available on Microreact. Go to [microreact.org/project/kpncolombia](http://microreact.org/project/kpncolombia) and explore the collection of isolates. 
 
 Public Microreact projects created by others, such as this one, are read only and cannot be edited by you. For our purposes, we need to make a copy of the project before proceeding. Notice the crossed out pen on right top corner of your screen. This indicates that you cannot edit the current Microreact project. 
