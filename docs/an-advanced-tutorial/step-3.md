@@ -23,7 +23,7 @@ In this recipe we will revisit aspects of the previous recipes in this section a
 
 ## Tutorial
 
-You should be using the project we opened in the previous steps. Please see [Creating an editable project](./step-1.md) and follow the instructions if not. Now that you've created one chart, you can create another one! Click on the Pen symbol on the right hand side and click on "Create New Chart".
+You should be using the project we opened in the previous steps. Please see [Creating an editable project](./step-1.md) and follow the instructions if not. Now that you've created one chart, you can create another one! Select the "Kpn Colombia" view. Click on the Pen symbol on the right hand side and click on "Create New Chart".
 
 ![Task 3: What are the dominating STs in Colombia? Now that you've created one chart, you can create another one! Step 1: Go to the "Pen: symbol on the right hand side and click on the"Create New Chart".](tutorial/create%20new%20chart.png){width="60%"}
 

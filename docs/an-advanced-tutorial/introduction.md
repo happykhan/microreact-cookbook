@@ -6,7 +6,7 @@ authors:
 date: 2024-03-25
 ---
 
-*Prepared by Nabil-Fareed Alikhan. Originally prsented by Natacha Couto and Julio Diaz Caballero. Last updated 2024-03-28*
+*Prepared by Nabil-Fareed Alikhan. Originally presented by Natacha Couto and Julio Diaz Caballero. Last updated 2024-03-28*
 
 This advanced tutorial has been adapted from content presented in the [Digital Epidemiology Workshop](https://cgps-group.github.io/digitalepiworkshop/hands-on/exercise.html), hosted in Colombia in September 2023. In this series of exercises, you will use Microreact to gain knowledge regarding a large collection of *Klebsiella pneumoniae* isolates, sampled from Colombia, between 2013 and 2019. At the end of this series of exercises, you will be able to identify a high risk clone circulating in the country.
 
@@ -23,6 +23,8 @@ This advanced tutorial has been adapted from content presented in the [Digital E
 * Customising a chart
 * Updating an existing view
 * Saving changes to a Microreact project
+* Showing metadata along side a phylogeny
+* Customising metadata blocks
 
 ## Getting started 
 

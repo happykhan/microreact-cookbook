@@ -12,7 +12,7 @@ date: 2024-03-25
 * Creating a new panel 
 * Creating a standard stacked bar plot 
 
-### Tutorial
+## Tutorial
 
 
 Go to the "Metadata blocks" and check the ST box.
