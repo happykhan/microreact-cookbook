@@ -15,14 +15,6 @@ Here are figures from a [Microreact](https://microreact.org/) project based on d
     Microreact can be installed behind your firewall to enable you to visualise sensitive data safely.
     To request a quote for the supported, Docker-packaged instance, please email microreact(at)cgps.group.
 
-[^1]: Dudas G et al. Virus genomes reveal factors that spread and sustained the Ebola epidemic. *Nature*. 2017 Apr 20;544(7650):309-315. doi: [10.1038/nature22040](http://dx.doi.org/10.1038/nature22040)
-
-## How to use this cookbook
-
-The best way to use this cookbook is to browse the various recipes listed on the right, and try to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data.
-
-If you have never used Microreact before, please start with the recipe, [Microreact classic - uploading data](./basic-upload.md)
-
 ## License
 
 Unless otherwise stated, content presented here is under a [CC BY-SA 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/), which basically means you are free to:
@@ -34,3 +26,12 @@ Given:
 
 * **Attribution** — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+
+## How to use this cookbook
+
+The best way to use this cookbook is to browse the various recipes listed on the right, and try to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data.
+
+If you have never used Microreact before, please start with the recipe, [Microreact classic - uploading data](./basic-upload.md). If you are feeling adventurous you can try a [detail tutorial that include a number of recipes here](./an-advanced-tutorial/introduction.md).
+
+[^1]: Dudas G et al. Virus genomes reveal factors that spread and sustained the Ebola epidemic. *Nature*. 2017 Apr 20;544(7650):309-315. doi: [10.1038/nature22040](http://dx.doi.org/10.1038/nature22040)

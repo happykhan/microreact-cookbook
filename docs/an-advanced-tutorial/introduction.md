@@ -20,10 +20,12 @@ This advanced tutorial has been adapted from content presented in the Digital Ep
 * Showing metadata blocks 
 * Using multiple views in a project. 
 
+## Getting started 
+
 !!! warning 
     You must use either Google Chrome or Mozilla Firefox as your internet browser. 
 
-The dataset used through these recipes is already available on Microreact. Go to [microreact.org/project/kpncolombia](http://microreact.org/project/kpncolombia) and explore the collection of isolates. We will use these data for a series of exercises:
+The dataset used through these recipes is already available on Microreact. Go to [microreact.org/project/kpncolombia](http://microreact.org/project/kpncolombia) and explore the collection of isolates. We will use these data for a series of recipes:
 
 1. Create an editable project.
 1. Present whole genome sequencing quality control (WGS QC) statistics in a chart. 
@@ -32,3 +34,6 @@ The dataset used through these recipes is already available on Microreact. Go to
 1. Explore which STs are associated with the presence of carbapenamase genes. 
 
 ![This is a screenshot of a Microreact project called "Klebsiella pneumoniae Colombia". Notice the main panels in this project: the map, the tree, the timeline and the saved views.](tutorial/%20microreact_overview.png){width="80%"}
+
+This is a screenshot (above) of a Microreact project called "Klebsiella pneumoniae Colombia". Notice the main panels in this project: the map, the tree, the timeline and the saved views.
+
