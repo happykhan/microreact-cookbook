@@ -48,3 +48,4 @@ Please add ideas for recipe here.
 * Exporting images - for a publication. 
 * Showing an outbreak in a ward
 * Showing an outbreak across a nation
+* using geocoder to fill in the map
