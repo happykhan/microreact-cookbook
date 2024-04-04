@@ -46,7 +46,7 @@ A stacked bar chart is useful for its simplicity and clarity, facilitating easy 
 
 ### Tutorial
 
-You be able should upload the metadata table and have a new Microreact project. If you are unsure how to do that please complete prequisite recipe about [uploading to Microreact](./basic-upload.md). When you load in the data, the data table will appear as one panel filling the screen. 
+You should be able to upload the metadata table and have a new Microreact project. If you are unsure how to do that please complete prequisite recipe about [uploading to Microreact](./basic-upload.md). When you load in the data, the data table will appear as one panel filling the screen. 
 
 ![First view from Microreact](./adding-charts/first-view.png)
 
