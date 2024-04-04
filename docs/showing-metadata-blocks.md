@@ -1,7 +1,6 @@
 ---
 title: Showing metadata alongside a phylogenetic tree
 description: Microreact can be used to compare phylogeny and other contextual information
-status: new
 authors:
     - Nabil-Fareed Alikhan
 date: 2024-03-26
