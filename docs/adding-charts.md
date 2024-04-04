@@ -18,7 +18,7 @@ Microreact provides charting feature, where you can show any data within your da
 
 The final output should like this, which shows multiple plots of number of isolates in this study grouped by country and serovar, and plots showing assembly metrics such as N50 and total assembled bases grouped by serovar. 
 
-![Tree output from Microreact](./adding-charts/final-chart.png)
+![Final output from Microreact](./adding-charts/final-view.png)
 
 !!! tip 
     Please complete prequisite recipe about [uploading to Microreact](./basic-upload.md). 
