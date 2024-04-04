@@ -41,9 +41,6 @@ Contributions are welcome, either via a direct commit or as a pull request. Reci
 
 Please add ideas for recipe here. 
 
-* Charting with Vega.
-* Standard metadata + tree vis. 
-* Tree vis + metadata blocks. 
 * Building multiple views.
 * Exporting images - for a publication. 
 * Showing an outbreak in a ward
