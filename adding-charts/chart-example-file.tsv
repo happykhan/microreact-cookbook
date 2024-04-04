@@ -1,0 +1,996 @@
+ID	ST	Serovar	GC (%)	Total reads	Passed reads (%)	Low quality reads (%)	too many Ns reads (%)	Too short reads (%)	No. of contigs	Placeholders (N) per 100kbp	N50	Total assembled bases	Point Mutations StarAMR	All AMR ARIBA-NCBI	Sample Accession	Run Accession	Collection Year	Source Niche	Source Type	Source Details	Country	Region	Source Lab
+BRCH23-C1A01	11	Enteritidis	52.13	1665354	97.23	2.48	0.19	0.1	50	0	478727	4707167	gyrA (D87N)	No result	ERS9927270	ERR8025255	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A02	413	Mbandaka	52.04	1765840	97.24	2.48	0.18	0.1	126	0	322079	4857047	No result	"aadA2.NG_051846.1, blaTEM_1.NG_050145.1, qnrS1.NG_050543.1, sul3.NG_048120.1"	ERS9927208	ERR8025192	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A03	964	Poona	52.23	1753306	97.22	2.47	0.18	0.12	68	2.23	397226	4484193	No result	No result	ERS9927221	ERR8025206	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A04	319	Tennessee	52.17	2146380	97.14	2.48	0.18	0.2	59	0	465154	4751873	No result	No result	ERS9927308	ERR8025296	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A05	96	Schwarzengrund	52.05	2332424	97.15	2.51	0.19	0.15	61	0	412610	4631760	No result	No result	ERS9927287	ERR8025273	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A06	24	Javiana	52.12	1864856	97.21	2.5	0.19	0.11	43	0	455402	4509820	No result	No result	ERS9927321	ERR8025309	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A07	329	Ohio	52.08	1995368	97.18	2.49	0.18	0.16	79	0	447684	4730781	No result	No result	ERS9927245	ERR8025230	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A08	14	Senftenberg	52.03	2437396	97.09	2.63	0.18	0.09	100	0	286629	4858200	No result	qnrB19.NG_050479.1	ERS9927267	ERR8025252	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A09	64	Anatum	51.71	2127798	97.17	2.52	0.19	0.11	105	0	441720	5223728	No result	"aadA2.NG_051846.1, qnrS1.NG_050543.1"	ERS9927261	ERR8025246	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A10	Unknown	Muenchen	52.14	2885742	96.98	2.65	0.18	0.19	63	0	485799	4696108	No result	qnrB19.NG_050479.1	ERS9927262	ERR8025247	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A11	96	Schwarzengrund	52.09	1782242	97.05	2.63	0.18	0.13	60	0	508343	4641550	No result	qnrB19.NG_050479.1	ERS9927206	ERR8025190	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1A12	48	Panama	52.28	2214066	97.25	2.43	0.18	0.14	58	0	384056	4508450	No result	No result	ERS9927304	ERR8025291	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B01	15	Heidelberg	52.05	1792710	97.34	2.36	0.19	0.11	100	0	270998	5031611	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927197	ERR8025181	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B02	413	Mbandaka	51.91	1844422	97.26	2.45	0.19	0.1	120	0	322273	5006887	No result	"aac_3__VIa.NG_052583.3, aadA1.NG_052477.1, qacEdelta1.NG_048042.1, qnrE1.NG_054677.1, sul1.NG_048082.1"	ERS9927311	ERR8025299	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B03	14	Senftenberg	52	1787740	97.21	2.49	0.18	0.12	92	0	351719	4751939	No result	No result	ERS9927355	ERR8025362	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Rio Grande do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B04	Unknown	Give	52.26	1616316	97.12	2.51	0.18	0.2	65	0	441378	4523082	No result	No result	ERS9927341	ERR8025329	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B05	11	Enteritidis	52.13	1970110	97.19	2.47	0.19	0.16	48	0	489519	4706703	gyrA (D87N)	No result	ERS9927315	ERR8025303	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B06	548	Minnesota	52.12	2909816	97.3	2.41	0.18	0.1	141	0	109594	4865394	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927247	ERR8025232	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B07	Unknown	Kentucky	51.75	1988054	97.13	2.52	0.19	0.16	98	0	381163	5246553	No result	"aadA1.NG_047324.1, qacEdelta1.NG_048042.1, sul1.NG_048082.1"	ERS9927319	ERR8025307	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B08	Unknown	Senftenberg	52.02	2518944	97.16	2.57	0.18	0.09	121	0	286629	4974772	No result	"aadA5.NG_047357.1, aph_3____Ib.NG_056002.2, aph_6__Id.NG_047464.1, dfrA17.NG_065416.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048153.1"	ERS9927345	ERR8025335	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B09	14	Senftenberg	52.01	2180224	97.09	2.61	0.18	0.11	118	0	286629	4864270	No result	No result	ERS9927286	ERR8025271	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B10	367	Cerro	52.32	3896548	97.01	2.61	0.19	0.19	131	0	221895	4513985	No result	No result	ERS9927246	ERR8025231	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B11	Unknown	Heidelberg	52.06	3325224	97.23	2.45	0.19	0.14	85	0	297371	4835456	gyrA (S83F)	"fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927322	ERR8025310	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1B12	Unknown	Enteritidis	52.14	2445592	97.18	2.49	0.18	0.15	62	0	400451	4696658	No result	No result	ERS9927187	ERR8025171	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C01	548	Minnesota	52.08	1764428	97.31	2.4	0.19	0.1	148	0	144614	4915269	No result	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927329	ERR8025317	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C02	Unknown	Heidelberg	52.02	1685986	97.28	2.45	0.18	0.1	106	0	248512	5007541	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, mcr_1.26.NG_068217.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927292	ERR8025279	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C03	15	Heidelberg	52.01	1905224	97.28	2.41	0.19	0.12	93	0	248605	5046793	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927233	ERR8025218	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Rio Grande do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C04	544	Molade	52.18	1722196	97.03	2.6	0.18	0.19	62	0	662390	4658101	No result	"fosA7.4.NG_067230.1, qnrB19.NG_050479.1"	ERS9927234	ERR8025219	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C05	654	Give	51.87	1507806	96.98	2.68	0.18	0.16	62	0	398300	4948531	No result	"aadA2.NG_047343.1, aph_3___Ia.NG_047430.1, catA1.NG_047587.1, dfrA12.NG_047689.1, qacEdelta1.NG_048042.1, sul1.NG_048082.1, tet_B_.NG_048173.1"	ERS9927275	ERR8025260	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C06	367	Cerro	52.36	1688556	97.08	2.62	0.19	0.11	88	0	351813	4464640	No result	No result	ERS9927340	ERR8025328	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C07	Unknown	Braenderup	52.27	1611068	97.03	2.62	0.19	0.16	57	0	496485	4641953	No result	No result	ERS9927272	ERR8025257	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C08	413	Mbandaka	52.09	1977656	97.33	2.39	0.19	0.09	116	0	245034	4879935	No result	No result	ERS9927204	ERR8025188	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C09	Unknown	Heidelberg	52.05	2508214	97.22	2.48	0.19	0.11	82	0	291118	4918399	gyrA (S83F)	"blaCTX_M_8.NG_049032.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927228	ERR8025213	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C10	367	Cerro	52.32	2546870	96.95	2.67	0.18	0.2	91	0	351813	4508006	No result	No result	ERS9927199	ERR8025183	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C11	65	Brandenburg	52.06	2170626	97.16	2.52	0.19	0.14	94	0	386483	4653440	No result	qnrB19.NG_050479.1	ERS9927241	ERR8025226	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1C12	469	Rissen	52.05	2115512	97.11	2.55	0.19	0.14	116	0	423147	4879807	No result	qnrE1.NG_054677.1	ERS9927214	ERR8025198	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D01	15	Heidelberg	52	1791596	97.24	2.47	0.18	0.11	96	0	269229	5074638	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927309	ERR8025297	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D02	96	Schwarzengrund	52.15	2009514	97.4	2.31	0.19	0.1	56	0	412614	4556427	No result	No result	ERS9927217	ERR8025202	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D03	Unknown	Heidelberg	51.98	1708134	97.21	2.49	0.18	0.12	97	0	291134	5073509	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927207	ERR8025191	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Rio Grande do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D04	469	Rissen	52.11	1956246	96.99	2.62	0.19	0.21	73	0	496646	4790675	No result	No result	ERS9927288	ERR8025274	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D05	45	Newport	51.98	1904456	97.07	2.6	0.18	0.15	81	0	601786	4896841	No result	"aac_3__IId.NG_047251.1, aadA2.NG_047343.1, blaTEM_1.NG_050145.1, dfrA12.NG_047689.1, tet_B_.NG_048163.1"	ERS9927366	ERR8025373	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D06	24	Javiana	51.99	1705396	97.27	2.45	0.18	0.11	36	0	695944	4526143	No result	No result	ERS9927354	ERR8025361	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D07	15	Heidelberg	51.99	3170196	97.13	2.52	0.18	0.17	96	0	297294	5071541	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927364	ERR8025371	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D09	15	Heidelberg	52.08	2336010	97.2	2.5	0.19	0.11	90	0	248419	5031491	gyrA (S83F)	"aac_3__VIa.NG_052583.3, aadA1.NG_047324.1, fosA7.NG_054942.1, qacEdelta1.NG_048042.1, sul1.NG_048082.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927299	ERR8025286	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D10	15	Heidelberg	52.05	2346456	96.99	2.63	0.18	0.19	86	0	331916	4990611	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927190	ERR8025174	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D11	Unknown	Fresno	52.21	1988042	97.34	2.34	0.19	0.13	105	0	527474	4789686	No result	No result	ERS9927210	ERR8025194	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1D12	19	Typhimurium	52.18	2066716	97.2	2.46	0.19	0.15	93	0	244321	4894535	No result	No result	ERS9927242	ERR8025227	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E01	15	Heidelberg	52.02	1797174	97.22	2.48	0.19	0.11	83	0	236428	5008451	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927326	ERR8025314	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E02	15	Heidelberg	52.02	1928734	97.17	2.55	0.18	0.1	89	0	276202	5005942	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927295	ERR8025282	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E03	Unknown	Heidelberg	52.02	1914748	97.16	2.54	0.18	0.12	90	0	276202	5062166	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927331	ERR8025319	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E04	Unknown	Ohio	52.17	2275928	96.97	2.64	0.19	0.2	74	0	527516	4735078	No result	qnrB19.NG_050479.1	ERS9927316	ERR8025304	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E05	15	Heidelberg	52.04	3834014	97.03	2.62	0.18	0.16	83	0	291469	4996782	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927278	ERR8025263	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E06	Unknown	Albany	52.03	3371006	97.18	2.53	0.18	0.11	57	2.09	730457	4787426	No result	No result	ERS9927336	ERR8025324	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E07	50	Saintpaul	52.22	1779924	97.01	2.63	0.19	0.17	77	0	387365	4746159	No result	No result	ERS9927255	ERR8025240	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E08	64	Anatum	51.74	2832016	97.32	2.39	0.19	0.1	98	0	497857	5126831	No result	"aadA2.NG_051846.1, qnrS1.NG_050543.1"	ERS9927277	ERR8025262	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E09	112	Muenchen	51.94	2612500	97.18	2.52	0.19	0.11	83	0	395875	4896975	No result	"aac_3__VIa.NG_052583.3, aadA1.NG_052477.1, aph_3___Ia.NG_047430.1, blaCTX_M_2.NG_048968.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1"	ERS9927276	ERR8025261	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E10	15	Heidelberg	52.04	2906628	96.95	2.68	0.18	0.19	81	0	411811	4997221	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927201	ERR8025185	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E11	897	Bredeney	52.11	1998478	97.1	2.57	0.18	0.14	57	0	396934	4703428	No result	tet_A_.NG_048154.1	ERS9927195	ERR8025179	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1E12	Unknown	Typhimurium	52.18	2116474	97.15	2.51	0.19	0.15	99	0	377279	4894522	No result	No result	ERS9927306	ERR8025294	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F01	15	Heidelberg	52	2010722	97.39	2.32	0.18	0.1	93	0	291122	5072343	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927191	ERR8025175	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F02	15	Heidelberg	52.02	2069598	97.38	2.33	0.18	0.11	88	0	248392	5011627	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927360	ERR8025367	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F03	463	Meleagridis	52.14	2864722	95.99	3.78	0.13	0.09	106	0	310523	4879086	No result	fosA7.4.NG_067230.1	ERS9927290	ERR8025277	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F04	Unknown	Heidelberg	52.01	3814802	95.51	4.24	0.11	0.13	412	0	77099	5086053	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927347	ERR8026288	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F05	15	Heidelberg	52.05	1931496	97.19	2.47	0.19	0.15	80	0	291118	4935075	gyrA (S83F)	"fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927333	ERR8025321	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F06	5336	Sandiego	51.9	2684824	96.04	3.74	0.14	0.08	284	0	279893	5144686	No result	No result	ERS9927232	ERR8025217	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F07	1541	Corvallis	52.05	3821568	95.66	4.11	0.11	0.12	355	0	93470	4814195	No result	qnrB19.NG_050479.1	ERS9927283	ERR8026770	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F08	15	Heidelberg	52.04	1883124	97.36	2.36	0.18	0.09	99	0	203426	4928983	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927203	ERR8025187	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F09	Unknown	Senftenberg	51.99	2045482	97.3	2.42	0.18	0.11	81	0	267264	4942404	No result	No result	ERS9927365	ERR8025372	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F10	15	Heidelberg	52.04	2611564	97.1	2.52	0.18	0.19	85	0	298419	4996631	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927361	ERR8025368	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F11	11	Enteritidis	52.12	2114982	97.23	2.44	0.19	0.14	60	0	400761	4666465	No result	No result	ERS9927323	ERR8025311	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1F12	548	Minnesota	52.26	2278530	97.26	2.4	0.19	0.15	75	0	270788	4748769	No result	"aph_3___Ia.NG_047430.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927325	ERR8025313	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G01	96	Schwarzengrund	52.03	1753288	97.37	2.33	0.18	0.12	66	0	396938	4739820	No result	qnrB19.NG_050479.1	ERS9927279	ERR8025264	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G02	15	Heidelberg	52.01	2119112	97.4	2.33	0.18	0.1	104	0	291475	5038288	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927213	ERR8025197	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G03	Unknown	Ohio	52.17	1571924	100	0	0	0	82	0	338372	4738823	No result	No result	ERS9927254	ERR8025239	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G04	Unknown	Muenchen	52.14	2123790	97.1	2.53	0.18	0.19	56	0	686329	4687042	No result	qnrB19.NG_050479.1	ERS9927216	ERR8025200	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G05	548	Minnesota	52.19	1743002	97.12	2.55	0.18	0.16	103	0	124131	4739487	No result	"sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927269	ERR8025254	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G06	24	Javiana	52.1	1882860	97.28	2.42	0.19	0.11	40	0	695936	4497163	No result	No result	ERS9927303	ERR8025290	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G07	15	Heidelberg	52.03	2105836	97.21	2.44	0.18	0.17	85	0	269442	4997143	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927343	ERR8025332	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G08	413	Mbandaka	52.06	1831484	97.37	2.35	0.19	0.09	103	0	322569	4851360	No result	No result	ERS9927226	ERR8025211	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G09	152	Kentucky	51.98	2628090	97.32	2.38	0.18	0.11	95	0	314951	4890032	gyrA (D87Y)	qnrB19.NG_050479.1	ERS9927320	ERR8025308	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G10	544	Molade	52.18	2382006	97.13	2.51	0.18	0.18	55	0	708778	4626781	No result	"fosA7.4.NG_067230.1, qnrB19.NG_050479.1"	ERS9927249	ERR8025234	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G11	Unknown	Typhimurium	52.18	1939844	97.06	2.62	0.19	0.14	98	0	271251	4894466	No result	No result	ERS9927310	ERR8025298	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1G12	1593	Cerro	52.26	1845448	97.18	2.49	0.19	0.14	84	0	248633	4620594	No result	No result	ERS9927305	ERR8025293	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H02	Unknown	Heidelberg	52.01	1734186	97.28	2.45	0.19	0.09	99	0	411937	5068213	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927332	ERR8025320	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H03	319	Tennessee	52.15	1485116	97.15	2.55	0.18	0.12	66	0	469957	4835838	No result	"dfrA25.NG_047721.1, qacEdelta1.NG_048042.1, sul1.NG_048082.1, tet_A_.NG_048159.1"	ERS9927294	ERR8025281	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H04	65	Brandenburg	52.15	1952202	97.11	2.52	0.19	0.19	82	2.16	473015	4633392	gyrA (D87G)	"floR.NG_047878.1, tet_A_.NG_048153.1"	ERS9927271	ERR8025256	2012	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H05	548	Minnesota	52.16	1883416	97.12	2.54	0.18	0.15	99	0	134959	4802929	No result	"aph_3___Ia.NG_047430.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927230	ERR8025215	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H06	Unknown	Give	51.87	1926076	97.1	2.61	0.18	0.11	66	0	438591	4948674	No result	"aadA2.NG_047343.1, aph_3___Ia.NG_047430.1, catA1.NG_047587.1, dfrA12.NG_047689.1, qacEdelta1.NG_048042.1, sul1.NG_048082.1, tet_B_.NG_048173.1"	ERS9927252	ERR8025237	2013	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H07	14	Senftenberg	52.03	1879686	96.83	2.84	0.18	0.16	105	0	286629	4857901	No result	qnrB19.NG_050479.1	ERS9927237	ERR8025222	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H08	457	Livingstone	52.21	2257450	97.26	2.47	0.18	0.09	90	2.12	419085	4729755	No result	No result	ERS9927281	ERR8025266	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H09	152	Kentucky	51.98	3267314	97.17	2.53	0.19	0.11	126	0	279051	4894946	gyrA (D87Y)	qnrB19.NG_050479.1	ERS9927225	ERR8025210	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H10	Unknown	Heidelberg	52.06	2164242	97.01	2.63	0.18	0.18	88	0	212996	4933609	gyrA (S83F)	"fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927358	ERR8025365	2015	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H11	15	Heidelberg	51.98	2479432	97.11	2.56	0.18	0.14	96	0	276202	5045832	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927239	ERR8025224	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C1H12	32	Infantis	52.32	2048384	97.16	2.5	0.18	0.15	55	0	396656	4565874	No result	No result	ERS9927298	ERR8025285	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A01	Unknown	Schwarzengrund	51.79	838930	96.68	3	0.18	0.14	107	0	194050	4963137	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_3___Ia.NG_047440.1, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, dfrA1.NG_047678.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927297	ERR8025284	2017	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A02	548	Minnesota	52.16	1346274	97.05	2.66	0.18	0.11	78	0	264964	4866070	No result	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927265	ERR8025250	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A03	Unknown	Worthington	52.23	1901902	97.04	2.66	0.18	0.12	77	0	507252	4780972	No result	No result	ERS9927257	ERR8025242	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A06	32	Infantis	52.32	1739098	96.93	2.77	0.18	0.12	61	0	396431	4566494	No result	No result	ERS9927209	ERR8025193	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Minas Gerais	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A07	96	Schwarzengrund	52.08	1566846	97.11	2.58	0.18	0.12	74	0	396844	4739069	No result	"aph_6__Id.NG_047464.1, dfrA14.NG_047696.1, sul2.NG_051852.1"	ERS9927352	ERR8025359	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Bahia	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A08	548	Minnesota	52.23	1938736	96.93	2.75	0.18	0.13	62	0	270217	4629626	No result	No result	ERS9927244	ERR8025229	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A09	548	Minnesota	52.13	1877780	97.05	2.66	0.19	0.1	73	0	268209	4868568	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927215	ERR8025199	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Bahia	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A10	548	Minnesota	52.21	1707152	96.92	2.8	0.17	0.11	81	0	270788	4786912	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927334	ERR8025322	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A11	45	Newport	51.87	1426006	97.08	2.64	0.18	0.1	256	0	179995	5080495	No result	"aph_3___Ia.NG_047430.1, qnrB19.NG_050479.1"	ERS9927359	ERR8025366	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2A12	319	Tennessee	52.17	2402198	96.97	2.71	0.19	0.13	55	0	498132	4758488	No result	No result	ERS9927335	ERR8025323	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B01	96	Schwarzengrund	51.99	1806882	96.96	2.72	0.19	0.13	69	0	412614	4731041	No result	"aadA1.NG_052486.1, blaCTX_M_2.NG_048968.1, dfrA1.NG_047678.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, tet_B_.NG_048163.1"	ERS9927348	ERR8025337	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B02	Unknown	Muenchen	52.14	1403360	97.02	2.69	0.19	0.1	76	0	540548	4726295	No result	qnrB19.NG_050479.1	ERS9927266	ERR8025251	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B03	Unknown	Panama	52.09	1608454	96.85	2.86	0.18	0.11	84	0	362420	4836756	No result	No result	ERS9927351	ERR8025340	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B05	15	Heidelberg	52.02	1163124	97.1	2.62	0.18	0.1	94	0	229515	5054813	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927224	ERR8025209	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Minas Gerais	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B06	15	Heidelberg	52.03	1352912	96.99	2.71	0.17	0.12	99	0	248512	4939836	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927282	ERR8025267	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B07	Unknown	Minnesota	52.21	1753300	96.95	2.73	0.18	0.13	92	0	270549	4882990	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927328	ERR8025316	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Tocantins	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B08	15	Heidelberg	52.01	1927816	96.9	2.77	0.19	0.14	86	0	298391	5034793	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927243	ERR8025228	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B09	1610	Ouakam	52.18	1519770	97.09	2.62	0.18	0.1	94	0	280218	4919340	No result	No result	ERS9927231	ERR8025216	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B10	15	Heidelberg	52.12	1751098	97.08	2.64	0.18	0.1	82	0	291469	4897504	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927293	ERR8025280	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Minas Gerais	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B11	15	Heidelberg	51.98	1850888	97.07	2.66	0.17	0.1	83	0	291469	5098222	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927223	ERR8025208	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2B12	1549	Altona	52.26	1975930	97.01	2.7	0.18	0.11	80	0	331580	4657120	No result	No result	ERS9927284	ERR8025269	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C01	22	Braenderup	52.17	1855468	96.82	2.85	0.18	0.14	201	0	457415	4814209	No result	qnrB19.NG_050479.1	ERS9927369	ERR8025376	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C02	14	Senftenberg	51.93	1594968	97.11	2.6	0.18	0.1	88	0	297813	4805403	No result	qnrB19.NG_050479.1	ERS9927263	ERR8025248	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C05	548	Minnesota	52.07	1242168	97.16	2.55	0.18	0.11	92	0	267081	4909423	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927236	ERR8025221	2018	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C06	592	Worthington	52.22	1298588	97.03	2.66	0.18	0.13	78	0	503240	4784987	No result	qnrB19.NG_050479.1	ERS9927196	ERR8025180	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C07	2803	Albany	52.09	1470978	97.02	2.66	0.19	0.14	50	0	802030	4847484	No result	No result	ERS9927192	ERR8025176	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Tocantins	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C08	544	Molade	52.18	1492846	96.87	2.8	0.19	0.14	55	0	507971	4659250	No result	"fosA7.4.NG_067230.1, qnrB19.NG_050479.1"	ERS9927251	ERR8025236	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C09	1541	Corvallis	52.05	1753484	97.03	2.68	0.19	0.1	76	0	745919	4768669	No result	qnrB19.NG_050479.1	ERS9927363	ERR8025370	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C10	1610	Ouakam	52.18	1329682	97.04	2.66	0.19	0.1	106	2.04	256269	4920393	No result	No result	ERS9927256	ERR8025241	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C11	1549	Altona	52.27	1685444	97.04	2.68	0.19	0.09	78	0	514815	4768379	No result	"aac_3__VIa.NG_052583.3, aadA1.NG_052477.1, qacEdelta1.NG_048042.1, sul1.NG_048082.1"	ERS9927258	ERR8025243	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2C12	185	Senftenberg	51.78	1890844	96.9	2.79	0.18	0.13	82	0	267356	5138086	No result	"aph_3____Ib.NG_056002.2, aph_6__Id.NG_047464.1, blaLAP_2.NG_049264.1, qnrS1.NG_050543.1, tet_B_.NG_048163.1"	ERS9927330	ERR8025318	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D01	14	Senftenberg	52.03	1727684	96.66	3.01	0.18	0.14	112	0	286629	4875306	No result	qnrB19.NG_050479.1	ERS9927198	ERR8025182	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Parana	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D04	14	Senftenberg	51.92	965292	96.69	3.01	0.17	0.12	97	0	292488	4839106	No result	qnrB19.NG_050479.1	ERS9927248	ERR8025233	2018	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D06	22	Braenderup	52.17	1407374	100	0	0	0	212	0	283256	4806879	No result	qnrB19.NG_050479.1	ERS9927285	ERR8025270	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Tocantins	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D07	Unknown	Schwarzengrund	52.19	1454624	100	0	0	0	56	0	470393	4638917	No result	qnrB19.NG_050479.1	ERS9927202	ERR8025186	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D08	413	Mbandaka	51.85	1383230	100	0	0	0	143	0	235349	5004128	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_3___Ia.NG_047440.1, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, dfrA1.NG_047678.1, fosA3.NG_050407.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927339	ERR8025327	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D09	548	Minnesota	52.2	1507012	100	0	0	0	88	0	268209	4849220	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927313	ERR8025301	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D10	329	Ohio	52.07	1575734	100	0	0	0	77	0	319703	4812059	No result	qnrB19.NG_050479.1	ERS9927346	ERR8025336	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Bahia	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D11	Unknown	Minnesota	52.13	1560872	100	0	0	0	110	0	225271	4873292	No result	"blaCMY_2.NG_048814.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927362	ERR8025369	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2D12	548	Minnesota	52.09	1385614	100	0	0	0	117	0	134454	4930585	No result	"aph_3___Ia.NG_047430.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927318	ERR8025306	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E01	185	Senftenberg	52	1491456	100	0	0	0	81	0	355204	4858106	No result	No result	ERS9927296	ERR8025283	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E02	14	Senftenberg	51.93	1786130	100	0	0	0	87	0	351719	4807567	No result	qnrB19.NG_050479.1	ERS9927367	ERR8025374	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E03	Unknown	Minnesota	52.15	1280500	100	0	0	0	83	0	267036	4910562	No result	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927301	ERR8025288	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E06	Unknown	Braenderup	52.1	1530488	100	0	0	0	332	0	232734	4867096	No result	qnrB19.NG_050479.1	ERS9927268	ERR8025253	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Tocantins	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E08	Unknown	Schwarzengrund	51.88	1373970	100	0	0	0	74	0	396736	4835634	No result	"aph_3____Ib.NG_047415.1, aph_3___Ia.NG_047430.1, aph_6__Id.NG_047464.1, blaTEM_1.NG_050145.1, dfrA7.NG_047737.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, sul2.NG_048118.1, tet_A_.NG_048154.1"	ERS9927350	ERR8025339	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E09	Unknown	Minnesota	52.19	1756968	100	0	0	0	77	0	250074	4846378	No result	"blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927240	ERR8025225	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E10	96	Schwarzengrund	52.09	1471628	100	0	0	0	75	0	450988	4643119	No result	"aph_6__Id.NG_047464.1, dfrA14.NG_047696.1, qnrB19.NG_050479.1, sul2.NG_051852.1"	ERS9927289	ERR8025275	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E11	548	Minnesota	52.16	1799750	100	0	0	0	74	0	264793	4864047	No result	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927337	ERR8025325	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2E12	96	Schwarzengrund	51.81	1924748	100	0	0	0	73	0	396943	4876032	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, blaCTX_M_2.NG_048968.1, dfrA1.NG_047678.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927220	ERR8025205	2017	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F01	Unknown	Ouakam	52.13	1513214	100	0	0	0	78	2.06	297885	4865470	No result	No result	ERS9927189	ERR8025173	2016	Poultry	Avian	Broiler chicken faeces	Brazil	Santa Catarina	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F02	14	Senftenberg	51.93	1854782	100	0	0	0	99	0	351626	4817129	No result	qnrB19.NG_050479.1	ERS9927229	ERR8025214	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F03	548	Minnesota	52.23	1503374	100	0	0	0	73	0	270667	4805294	No result	"blaCMY_2.NG_048814.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927218	ERR8025203	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F04	96	Schwarzengrund	51.82	1311040	100	0	0	0	77	0	412615	4881611	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_3___Ia.NG_047440.1, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, dfrA1.NG_047678.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927273	ERR8025258	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F05	548	Minnesota	52.15	929072	100	0	0	0	89	0	263793	4848697	gyrA (S83Y)	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927205	ERR8025189	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F06	279	"I 4,[5],12:d:-"	51.99	970820	100	0	0	0	79	2.08	414328	4811161	No result	No result	ERS9927219	ERR8025204	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Tocantins	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F07	2519	Glostrup	52.08	1472172	100	0	0	0	258	0	261105	5215452	No result	No result	ERS9927259	ERR8025244	2017	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F08	548	Minnesota	52.1	1657156	100	0	0	0	124	0	134679	4924616	No result	"aph_3___Ia.NG_047430.1, blaCTX_M_8.NG_049032.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927227	ERR8025212	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F09	241	Bredeney	52.01	1475312	100	0	0	0	63	0	467302	4675730	No result	No result	ERS9927357	ERR8025364	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Espirito Santo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F10	548	Minnesota	52.16	1243266	100	0	0	0	132	0	112487	4784951	No result	"qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927274	ERR8025259	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F11	413	Mbandaka	52.05	1625482	100	0	0	0	102	0	227302	4889609	No result	"aac_3__VIa.NG_052583.3, aadA1.NG_052477.1, qacEdelta1.NG_048042.1, sul1.NG_048082.1"	ERS9927344	ERR8025334	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Minas Gerais	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2F12	64	Anatum	52.12	1434328	100	0	0	0	88	0	390734	4852492	No result	"blaCTX_M_8.NG_049032.1, qnrB19.NG_050479.1"	ERS9927327	ERR8025315	2017	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G01	22	Braenderup	52.25	1651010	100	0	0	0	52	0	496485	4709485	No result	No result	ERS9927368	ERR8025375	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso do Sul	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G02	548	Minnesota	52.16	1462346	100	0	0	0	85	0	225210	4876529	No result	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927300	ERR8025287	2018	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G04	Unknown	Minnesota	52.18	1413008	100	0	0	0	85	0	259631	4823187	No result	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927194	ERR8025178	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G05	96	Schwarzengrund	51.81	757586	100	0	0	0	84	0	242374	4880416	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_3___Ia.NG_047440.1, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, blaCTX_M_2.NG_048968.1, dfrA1.NG_047678.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927349	ERR8025338	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G06	548	Minnesota	52.15	1133796	100	0	0	0	83	0	255488	4907372	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927312	ERR8025300	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G07	548	Minnesota	52.21	1121910	100	0	0	0	70	0	267914	4779877	No result	"aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927302	ERR8025289	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G08	1610	Ouakam	51.92	1242362	100	0	0	0	110	0	280352	5115650	No result	"aac_3__VIa.NG_052583.3, aadA1.NG_052477.1, aph_3___Ia.NG_047430.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1"	ERS9927238	ERR8025223	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G09	Unknown	Anatum	52.1	1870852	100	0	0	0	101	0	525184	4816365	No result	qnrB19.NG_050479.1	ERS9927356	ERR8025363	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Minas Gerais	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G10	548	Minnesota	52.2	2521326	100	0	0	0	77	0	255088	4842359	No result	"blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927188	ERR8025172	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G11	48	Panama	52.27	1491178	100	0	0	0	71	0	243131	4593032	No result	No result	ERS9927193	ERR8025177	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2G12	15	Heidelberg	52.05	2013060	100	0	0	0	84	0	293116	4938047	gyrA (S83F)	"fosA7.NG_054942.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927338	ERR8025326	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Bahia	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H01	32	Infantis	52.32	2034632	100	0	0	0	53	0	396159	4564720	No result	No result	ERS9927314	ERR8025302	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Mato Grosso	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H02	15	Heidelberg	52.15	1628002	96.71	2.99	0.18	0.12	81	0	291124	4909742	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927280	ERR8025265	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Bahia	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H03	96	Schwarzengrund	51.78	2826804	96.66	3.04	0.17	0.13	74	0	412615	4928516	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_3___Ia.NG_047440.1, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, blaCTX_M_2.NG_048968.1, dfrA1.NG_047678.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927212	ERR8025196	2018	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H05	413	Mbandaka	51.86	1511522	96.91	2.81	0.18	0.1	90	0	445024	5002563	No result	"aadA2.NG_051846.1, ant_2____Ia.NG_047387.1, qacEdelta1.NG_048042.1, qnrA9.NG_059280.1, sul1.NG_048082.1"	ERS9927307	ERR8025295	2018	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H06	Unknown	Heidelberg	52.07	1307316	96.7	2.97	0.18	0.15	106	0	160498	4984002	gyrA (S83F)	"blaCMY_2.NG_048814.1, fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927250	ERR8025235	2017	Poultry	Avian	Broiler chicken faeces	Brazil	District Federal	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H07	64	Anatum	52.04	2312762	96.82	2.86	0.18	0.14	82	0	602590	4830759	No result	mcr_1.26.NG_068217.1	ERS9927253	ERR8025238	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Minas Gerais	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H08	1610	Ouakam	51.92	2178008	96.64	3.03	0.18	0.15	108	1.93	288818	5186320	No result	"aac_3__VIa.NG_052583.3, aadA1.NG_052477.1, aph_3___Ia.NG_047430.1, blaCTX_M_2.NG_048968.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1"	ERS9927260	ERR8025245	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H09	Unknown	Schwarzengrund	51.81	1753558	96.76	2.94	0.18	0.12	83	0	396910	4883804	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_3___Ia.NG_047440.1, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, blaCTX_M_2.NG_048968.1, dfrA1.NG_047678.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927235	ERR8025220	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H10	15	Heidelberg	52.08	1456842	96.91	2.8	0.18	0.11	90	0	291118	4936341	gyrA (S83F)	"fosA7.NG_054942.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927200	ERR8025184	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H11	15	Heidelberg	52.05	2372372	96.96	2.74	0.18	0.12	83	0	291125	4938340	gyrA (S83F)	"fosA7.NG_054942.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927222	ERR8025207	2018	Poultry	Avian	Broiler chicken faeces	Brazil	Bahia	University of Sao Paulo / Quadram Institute Bioscience
+BRCH23-C2H12	50	Saintpaul	52.09	2408886	96.76	2.91	0.19	0.14	97	0	531506	4990889	No result	No result	ERS9927353	ERR8025360	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH24-EA05	Unknown	Anatum	52.13	3309314	100	0	0	0	74	0	437706	4791088	No result	qnrB19.NG_050479.1	ERS9927342	ERR8025331	NA	Poultry	Avian	Broiler chicken faeces	Brazil	NA	University of Sao Paulo / Quadram Institute Bioscience
+BRCH24-EB05	Unknown	Sandiego	52.04	2143650	100	0	0	0	98	0	387188	4959408	No result	No result	ERS9927264	ERR8025249	NA	Poultry	Avian	Broiler chicken faeces	Brazil	NA	University of Sao Paulo / Quadram Institute Bioscience
+BRCH24-EH04	548	Minnesota	52.15	1564716	100	0	0	0	94	0	266792	4910108	No result	"aadA1.NG_052536.1, aph_3___Ia.NG_047430.1, blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927317	ERR8025305	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Goias	University of Sao Paulo / Quadram Institute Bioscience
+BRCH24-MF06	Unknown	Minnesota	52.15	1231848	100	0	0	0	91	0	219543	4786866	No result	"blaCMY_2.NG_048814.1, qnrB19.NG_050479.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927324	ERR8025312	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Para	University of Sao Paulo / Quadram Institute Bioscience
+BRCH24-MG06	413	Mbandaka	51.91	1316180	100	0	0	0	150	0	199876	4957724	No result	"aac_3__IVa.NG_047253.1, aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_3___Ia.NG_047440.1, aph_4__Ia.NG_047456.1, aph_6__Id.NG_047464.1, dfrA1.NG_047678.1, fosA3.NG_050407.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, tet_A_.NG_048154.1, tet_B_.NG_048163.1"	ERS9927291	ERR8025278	2014	Poultry	Avian	Broiler chicken faeces	Brazil	Sao Paulo	University of Sao Paulo / Quadram Institute Bioscience
+BRCH24-MH06	592	Worthington	52.23	2243470	100	0	0	0	75	0	391212	5032557	No result	"aadA1.NG_052486.1, aph_3____Ib.NG_056002.2, aph_6__Id.NG_047464.1, blaTEM_90.NG_050299.1, dfrA1.NG_047678.1, dfrA8.NG_047741.1, floR.NG_047866.1, qacEdelta1.NG_048042.1, qnrB19.NG_050479.1, sul1.NG_048082.1, sul2.NG_051852.1, tet_A_.NG_048154.1"	ERS9927211	ERR8025195	2017	Poultry	Avian	Broiler chicken faeces	Brazil	Minas Gerais	University of Sao Paulo / Quadram Institute Bioscience
+L00037-19	548	Minnesota	51.99	5471528	95.95	218906	696	2048	78	0.00	320499	4581700	No result	No result	ERS7357245	ERR6458103	2019	Other/Veg/Mineral	Other/Veg/Mineral	Other/Veg/Mineral	United Kingdom	NA	APHA
+L00223-12	548	Minnesota	51.77	5383798	95.49	240478	552	1578	85	0.00	320432	4581612	No result	No result	ERS7357246	ERR6458104	2012	Other/Veg/Mineral	Other/Veg/Mineral	Other/Veg/Mineral	United Kingdom	NA	APHA
+L00925-13	15	Heidelberg	52.37	3176048	99.37	20056	0	0	64	0.00	412024	4730768	No result	No result	ERS7357215	ERR6458105	2013	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+L00992-13	15	Heidelberg	52.11	2565098	99.42	14886	0	0	100	0.00	374230	4747934	No result	No result	ERS7357216	ERR6458106	2013	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+L01529-16	548	Minnesota	50.92	8616506	95.88	351136	896	2600	158	0.00	219501	4911598	No result	No result	ERS7357247	ERR6458107	2016	Other/Veg/Mineral	Other/Veg/Mineral	Other/Veg/Mineral	Unknown	NA	APHA
+L01552-07	548	Minnesota	51.72	4941230	95.38	226166	560	1546	80	0.00	225383	4546556	No result	No result	ERS7357248	ERR6458108	2007	Other/Veg/Mineral	Feed	Feed mill	United Kingdom	NA	APHA
+L02220-14	548	Minnesota	51.99	5402382	95.74	227570	508	2026	80	0.00	219503	4538143	No result	No result	ERS7357249	ERR6458109	2014	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+L04099-18	548	Minnesota	51.98	5521328	95.52	245140	568	1600	78	0.00	320499	4581398	No result	No result	ERS7357250	ERR6458110	2018	Other/Veg/Mineral	Other/Veg/Mineral	Other/Veg/Mineral	United Kingdom	NA	APHA
+L04178-18	548	Minnesota	51.72	4441604	95.99	175770	440	1770	106	0.00	229828	4638383	No result	No result	ERS7357251	ERR6458111	2018	Other/Veg/Mineral	Other/Veg/Mineral	Other/Veg/Mineral	United Kingdom	NA	APHA
+S00176-02	15	Heidelberg	51.67	2938814	99.34	19370	0	0	94	2.06	276179	4873711	No result	No result	ERS7357217	ERR6458112	2002	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S00233-02	15	Heidelberg	50.96	9731530	95.97	385846	3100	3310	74	0.00	235078	4871047	No result	No result	ERS7357218	ERR6458113	2002	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S00610-99	15	Heidelberg	50.75	15053038	96.18	565006	4760	4948	94	0.00	230997	4867919	No result	No result	ERS7357219	ERR6458114	1999	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S00701-02	15	Heidelberg	51.22	10942204	96.18	410248	3508	3876	104	0.00	276202	4975223	No result	No result	ERS7357220	ERR6458115	2002	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S00726-01	15	Heidelberg	51.42	10740076	96.26	395094	3316	3766	84	0.00	411998	4762920	No result	No result	ERS7357221	ERR6458116	2001	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S02136-02	15	Heidelberg	52.71	2703964	99.29	19078	0	0	98	0.00	276186	4865288	No result	No result	ERS7357222	ERR6458117	2002	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S02215-02	15	Heidelberg	51.7	2427234	99.37	15180	0	0	96	0.00	231330	4874516	No result	No result	ERS7357223	ERR6458118	2002	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S03121-01	15	Heidelberg	50.95	14790864	96.22	548598	4692	5184	102	0.00	280602	4871509	No result	No result	ERS7357224	ERR6458119	2001	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S03158-02	15	Heidelberg	51.13	11648922	96.32	420934	3822	4154	85	0.00	411998	4762737	No result	No result	ERS7357225	ERR6458120	2002	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S03178-18	548	Minnesota	52.3	7711322	95.61	334090	1116	3106	376	0.00	75754	5641527	No result	No result	ERS7357252	ERR6458121	2018	Other/Veg/Mineral	Other/Veg/Mineral	Other/Veg/Mineral	United Kingdom	NA	APHA
+S03484-01	15	Heidelberg	51.14	11131044	96.4	392912	3482	3844	92	0.00	280602	4870047	No result	No result	ERS7357226	ERR6458122	2001	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S03553-02	Unknown	Heidelberg	51.59	9710704	96.4	343166	3106	3522	109	0.00	241939	4862572	No result	No result	ERS7357227	ERR6458123	2002	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S03718-01	15	Heidelberg	51.23	10673130	96.18	400840	3204	3678	109	0.00	276162	4860559	No result	No result	ERS7357228	ERR6458124	2001	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S03915-01	Unknown	Heidelberg	50.76	15029828	96.05	584094	4436	5026	90	0.00	276162	4865995	No result	No result	ERS7357229	ERR6458125	2001	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S03924-07	Unknown	Heidelberg	52.33	2385774	99.33	16086	0	0	78	2.09	291690	4792852	No result	No result	ERS7357230	ERR6458126	2007	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S04011-01	15	Heidelberg	51.37	8451744	95.92	338902	2842	2856	63	0.00	276162	4761836	No result	No result	ERS7357231	ERR6458127	2001	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S04029-07	15	Heidelberg	52.06	2091700	99.35	13676	0	0	71	0.00	279767	4796404	No result	No result	ERS7357232	ERR6458128	2007	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S04030-07	15	Heidelberg	51.9	2348552	99.39	14324	0	0	88	0.00	234823	4798849	No result	No result	ERS7357233	ERR6458129	2007	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S04030-10	Unknown	Minnesota	52.57	6640314	95.88	269934	892	2540	90	0.00	219503	4594800	No result	No result	ERS7357253	ERR6458130	2010	Other/Veg/Mineral	Other/Veg/Mineral	Other/Veg/Mineral	United Kingdom	NA	APHA
+S04196-01	15	Heidelberg	51.16	10412398	96.25	383512	3476	3540	71	0.00	276162	4868420	No result	No result	ERS7357234	ERR6458131	2001	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05060-99	Unknown	Heidelberg	50.99	12160132	96.15	459912	4042	3794	115	0.00	276162	4855800	No result	No result	ERS7357235	ERR6458132	1999	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05061-99	15	Heidelberg	51.22	13744382	96.21	513508	4450	3250	95	0.00	276202	4859798	No result	No result	ERS7357236	ERR6458133	1999	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05365-00	15	Heidelberg	51.03	12741142	96.27	467494	4168	3092	119	0.00	291701	4864439	No result	No result	ERS7357237	ERR6458134	2000	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05454-00	Unknown	Heidelberg	51.15	10695220	96.45	373166	3418	2748	119	0.00	276202	4861123	No result	No result	ERS7357238	ERR6458135	2000	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05474-97	Unknown	Heidelberg	50.94	11285012	96.39	400578	3452	3480	82	0.00	276202	4680297	No result	No result	ERS7357239	ERR6458136	1997	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05618-00	15	Heidelberg	51	12997268	96.36	465490	4002	3394	77	0.00	276162	4758102	No result	No result	ERS7357240	ERR6458137	2000	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05693-00	15	Heidelberg	51.26	12900898	96.31	468876	4158	3100	75	0.00	276162	4869093	No result	No result	ERS7357241	ERR6458138	2000	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S05696-00	15	Heidelberg	52.25	2667386	99.36	16978	0	0	78	0.00	276162	4765594	No result	No result	ERS7357242	ERR6458139	2000	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S07038-00	15	Heidelberg	51.23	13561188	96.08	522208	4258	4554	96	0.00	276162	4816136	No result	No result	ERS7357243	ERR6458140	2000	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+S07042-00	Unknown	Heidelberg	51.14	14477738	96.23	536064	4550	4984	92	0.00	280602	4875053	No result	No result	ERS7357244	ERR6458141	2000	Poultry	Avian	Chicken	United Kingdom	NA	APHA
+SRR1957962	Unknown	Minnesota	51.1	2492608	98.3	0	0	0	127	0	163542	4801470	No result	No result	SRS897996	SRS3543064	2014	Human	Human	Homo sapiens; human	United Kingdom	NA	UK Health Security Agency
+SRR1968390	Unknown	Heidelberg	52.07	4013048	100	0	0	0	197	0	138174	4969279	No result	No result	SRS904992	SRR1968390	2014	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR5215862	Unknown	Minnesota	52.16	4127424	87.95	0.93	0	0	129	0	157787	4858503	No result	No result	SRS1946935	SRR5215862	2016	Human	Human	Homo sapiens; human	United Kingdom	NA	UK Health Security Agency
+SRR5583081	Unknown	Heidelberg	52	2031062	94.43	5.56	0.01	0	127	0	196040	5064525	No result	No result	SRS2214342 	SRR5583081	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5583084	Unknown	Heidelberg	52.01	2967874	95.04	4.95	0.01	0	109	0	276122	5065014	No result	No result	SRS2214344	SRR5583084	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5583123	15	Heidelberg	52.06	3259310	93.6	6.4	0.01	0	144	0	161706	4964840	No result	No result	SRS2214383	SRR5583123	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5583821	15	Heidelberg	52.08	3047534	93.92	6.08	0	0	126	0	181774	4923797	No result	No result	SRS2215069	SRR5583821	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5583955	Unknown	Heidelberg	52.02	3649206	94.75	5.24	0.01	0	96	0	264507	4914417	No result	No result	SRS2215201	SRR5583955	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5584049	15	Heidelberg	52	3209772	97.94	2.02	0.05	0	132	0	208874	5082192	No result	No result	SRS2215296	SRR5584049	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5584094	Unknown	Heidelberg	51.97	3791130	96.52	3.41	0.07	0	129	0	179910	5034411	No result	No result	SRS2215340	SRR5584094	2017	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR5584590	15	Heidelberg	52.04	4080732	93.73	6.21	0.06	0	132	0	234791	4990698	No result	No result	SRS2215839	SRR5584590	2017	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR5584684	15	Heidelberg	52.1	3924118	96.24	3.75	0.01	0	110	0	206848	5046559	No result	No result	SRS2215917	SRR5584684	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5584758	15	Heidelberg	52.08	3917450	98.23	1.76	0.01	0	131	0	176045	4928630	No result	No result	SRS2215991	SRR5584758	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5584830	15	Heidelberg	52.05	4475526	91.81	8.15	0.03	0	134	0	276122	4993242	No result	No result	SRS2216064	SRR5584830	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5584868	Unknown	Minnesota	52.16	4006616	78.88	21.08	0.04	0	142	0	157020	4819921	No result	No result	SRS2216101	SRR5584868	2017	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR5584952	15	Heidelberg	52.08	2914054	96.63	3.29	0.08	0	135	0	138174	4924174	No result	No result	SRS2216185	SRR5584952	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5584998	Unknown	Heidelberg	52.04	3950136	96.71	3.22	0.07	0	152	0	178567	5060578	No result	No result	SRS2216231	SRR5584998	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5585036	15	Heidelberg	51.96	1596618	93.31	6.65	0.04	0	138	0	196039	5065408	No result	No result	SRS2216268	SRR5585036	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5585050	15	Heidelberg	52.06	1777860	89.72	10.25	0.03	0	148	0	144769	4960725	No result	No result	SRS2216282	SRR5585050	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5585076	15	Heidelberg	51.98	3878686	98.15	1.84	0.01	0	258	0	136547	5049479	No result	No result	SRS2216308	SRR5585076	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5585127	15	Heidelberg	52.01	1978574	94.21	5.76	0.04	0	141	0	233700	5069522	No result	No result	SRS2216359	SRR5585127	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5585135	15	Heidelberg	51.99	3691116	97.31	2.68	0.01	0	132	0	161686	5040175	No result	No result	SRS2216368	SRR5585135	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5585192	15	Heidelberg	52	2429368	93.96	6.01	0.04	0	116	0	236539	5083033	No result	No result	SRS2216424	SRR5585192	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5585228	15	Heidelberg	52.02	4577016	98.42	1.54	0.04	0	125	0	241152	5019333	No result	No result	SRS2216460	SRR5585228	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5585239	15	Heidelberg	52.07	3561612	98.32	1.67	0.01	0	109	0	235037	4958543	No result	No result	SRS2216472	SRR5585239	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5585257	Unknown	Heidelberg	52.06	2393198	94.59	5.4	0.01	0	139	0	200291	4954549	No result	No result	SRS2216490	SRR5585257	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5585331	Unknown	Minnesota	52.16	3697594	76.71	23.25	0.04	0	160	0	157306	4822454	No result	No result	SRS2216564	SRR5585331	2017	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR5585377	Unknown	Minnesota	52.16	5131486	83.38	16.57	0.05	0	146	0	167554	4821074	No result	No result	SRS2216610	SRR5585377	2017	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR5631592	15	Heidelberg	52.07	3216770	96.69	3.24	0.07	0	136	0	178925	4974602	No result	No result	SRS2241615	SRR5631592	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5631604	Unknown	Heidelberg	51.92	3913260	96.78	3.2	0.02	0	146	0	161281	5029982	No result	No result	SRS2241627	SRR5631604	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5631653	15	Heidelberg	52	4875540	98.28	1.67	0.04	0	122	0	253427	5068574	No result	No result	SRS2241677	SRR5631653	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5631669	15	Heidelberg	52.04	5547212	98.17	1.79	0.04	0	120	0	193850	5008857	No result	No result	SRS2241687	SRR5631669	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5632108	15	Heidelberg	52.05	4955126	94.16	5.81	0.03	0	125	0	253855	4992532	No result	No result	SRS2242095	SRR5632108	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5632816	Unknown	Heidelberg	51.99	3763810	98.49	1.5	0.01	0	149	0	161685	5040849	No result	No result	SRS2242789	SRR5632816	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5632970	15	Heidelberg	52	2751568	96.33	3.6	0.07	0	120	0	235036	5066153	No result	No result	SRS2242944	SRR5632970	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5633077	Unknown	Heidelberg	51.99	3796242	98.21	1.78	0.01	0	121	0	253428	5070812	No result	No result	SRS2243049	SRR5633077	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5633085	15	Heidelberg	52	5281562	98.16	1.81	0.04	0	123	0	248711	5041547	No result	No result	SRS2243058	SRR5633085	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5633088	15	Heidelberg	52.01	4889388	97.97	1.99	0.04	0	120	0	214998	5029878	No result	No result	SRS2243061	SRR5633088	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5633101	Unknown	Heidelberg	52.02	3420738	96.72	3.21	0.07	0	111	0	178475	4912978	No result	No result	SRS2243074	SRR5633101	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5633111	548	Minnesota	52.16	4121090	78.02	21.94	0.04	0	130	0	169615	4819494	No result	No result	SRS2243084	SRR5633111	2017	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR5633133	15	Heidelberg	52.03	3497606	97.94	2.02	0.04	0	142	0	175809	4956906	No result	No result	SRS2243106	SRR5633133	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR5633236	15	Heidelberg	52.08	3217706	97.77	2.23	0.01	0	131	0	157421	4999296	No result	No result	SRS2243209	SRR5633236	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR5633396	15	Heidelberg	52	4954356	98.46	1.5	0.04	0	148	0	176806	5062355	No result	No result	SRS2243369	SRR5633396	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR6190513	32	Infantis	52.25	3513188	94.44	5.55	0.01	0	126	0	149684	4662393	No result	No result	SRS2608141	SRR6190513	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR6193002	32	Infantis	52.31	3968108	93.4	6.58	0.01	0	113	0	175671	4594495	No result	No result	SRS2610429	SRR6193002	2015	Food	Swine	Pigs ears	Brazil (import)	NA	UK Health Security Agency
+SRR6900963	Unknown	Enteritidis	52.13	3946188	92.23	7.76	0.01	0	85	0	229065	4704959	No result	No result	SRS3094410	SRR6900963	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7284447	548	Minnesota	52.19	3815058	85.76	1.41	0	0	115	0	166433	4817978	No result	No result	SRS3399361	SRR7284447	2016	Human	Human	Homo sapiens; human	United Kingdom	NA	UK Health Security Agency
+SRR7439564	Unknown	Heidelberg	52.07	4089934	96.77	3.22	0.02	0	165	0	142482	4959516	No result	No result	SRS3469573	SRR7439564	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7465062	Unknown	Heidelberg	52.08	2981522	97.86	2.12	0.02	0	143	0	253420	5119516	No result	No result	SRS3496430	SRR7465062	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501126	548	Minnesota	52.18	2713764	96.83	3.14	0.03	0	130	0	157779	4811622	No result	No result	SRS3528845	SRR7501126	2018	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501145	15	Heidelberg	52.04	3280458	97.06	2.91	0.04	0	164	0	214692	5030323	No result	No result	SRS3528861	SRR7501145	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501152	548	Minnesota	52.18	3998888	96.1	3.73	0.17	0	152	0	157020	4847227	No result	No result	SRS3528868	SRR7501152	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501162	15	Heidelberg	52.09	3518700	98.22	1.77	0.01	0	121	0	167589	4949492	No result	No result	SRS3528878	SRR7501162	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501170	Unknown	Heidelberg	52.04	2302192	98.02	1.94	0.04	0	115	0	197639	4975272	No result	No result	SRS3528886	SRR7501170	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501177	Unknown	Heidelberg	52.01	3287432	96.36	3.62	0.02	0	134	0	234803	5069938	No result	No result	SRS3528893	SRR7501177	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501179	548	Minnesota	52.16	4208670	80.92	19.04	0.04	0	145	0	169880	4819993	No result	No result	SRS3528895	SRR7501179	2017	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7501284	Unknown	Heidelberg	51.97	4332378	96.19	3.52	0.3	0	130	0	235036	5076169	No result	No result	SRS3529000	SRR7501284	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501296	Unknown	Heidelberg	51.99	3596132	98.33	1.66	0.01	0	229	0	160585	5048133	No result	No result	SRS3529011	SRR7501296	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501298	Unknown	Heidelberg	52.02	1962390	97.82	2.16	0.02	0	114	0	144766	4997411	No result	No result	SRS3529013	SRR7501298	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501299	15	Heidelberg	51.8	5193448	96.66	3.33	0.01	0	143	0	234555	5202629	No result	No result	SRS3529015	SRR7501299	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501313	15	Heidelberg	52.04	5653300	97.19	2.75	0.06	0	148	0	121539	5111623	No result	No result	SRS3529026	SRR7501313	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501324	548	Minnesota	52.2	2583294	78.3	21.4	0.3	0	111	0	157020	4816248	No result	No result	SRS3529040	SRR7501324	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501325	15	Heidelberg	51.98	3471302	96.04	3.89	0.07	0	152	0	163861	5038684	No result	No result	ERS9970822	SRR7501325	2017	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7501328	15	Heidelberg	52.07	4959298	96.86	3.03	0.11	0	113	0	215130	4942390	No result	No result	SRS3529039	SRR7501328	2017	Food	Poultry	marinated chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501351	Unknown	Heidelberg	52.07	2979330	96.62	3.34	0.04	0	153	0	155578	5016993	No result	No result	SRS3529062	SRR7501351	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501354	15	Heidelberg	52.02	2674896	81.93	17.72	0.35	0	135	0	144774	5031353	No result	No result	SRS3529065	SRR7501354	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501402	Unknown	Heidelberg	52.06	3263760	96.55	3.43	0.01	0	120	0	219641	4973405	No result	No result	SRS3529112	SRR7501402	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501404	15	Heidelberg	51.96	3287784	94.29	5.7	0.01	0	140	0	171981	5022336	No result	No result	SRS3529114	SRR7501404	2017	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7501405	Unknown	Heidelberg	51.99	4000400	96.57	3.35	0.07	0	123	0	234810	5001325	No result	No result	SRS3529115	SRR7501405	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501408	548	Minnesota	52.16	5035682	94.77	5.22	0.01	0	189	0	110847	4904989	No result	No result	SRS3529118	SRR7501408	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501425	15	Heidelberg	52.07	3774978	98.03	1.96	0.01	0	118	0	196032	4929727	No result	No result	SRS3529134	SRR7501425	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501510	15	Heidelberg	52.05	6444066	96.22	3.77	0.01	0	96	0	234804	4951540	No result	No result	SRS3529225	SRR7501510	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501648	15	Heidelberg	51.95	2378240	98.72	1.18	0.1	0	196	0	98427	5129505	No result	No result	SRS3529355	SRR7501648	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501650	15	Heidelberg	52.06	2895272	96.34	3.6	0.06	0	142	0	114996	4962390	No result	No result	SRS3529356	SRR7501650	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501671	15	Heidelberg	52.04	3645830	97.07	2.89	0.04	0	108	0	234803	4972314	No result	No result	SRS3529373	SRR7501671	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501682	15	Heidelberg	52.03	3757018	98.41	1.57	0.02	0	120	0	153385	4996866	No result	No result	SRS3529383	SRR7501682	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501691	Unknown	Heidelberg	52.17	3284376	94.8	5.19	0.01	0	152	0	97391	4990531	No result	No result	SRS3529393	SRR7501691	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7501698	Unknown	Heidelberg	52.04	6165012	97.23	2.71	0.06	0	151	0	104855	5111548	No result	No result	SRS3529399	SRR7501698	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501700	15	Heidelberg	52.14	2857926	97.45	2.53	0.02	0	109	0	204958	4885405	No result	No result	SRS3529401	SRR7501700	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501711	548	Minnesota	52.21	4349486	83.55	16.44	0.01	0	157	0	173075	4847499	No result	No result	SRS3529410	SRR7501711	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501714	Unknown	Heidelberg	52	3384220	97.52	2.46	0.02	0	114	0	160582	5063492	No result	No result	SRS3529413	SRR7501714	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501715	13	Agona	51.98	4416564	96.06	3.77	0.17	0	112	0	165530	4730361	No result	No result	SRS3529414	SRR7501715	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501727	15	Heidelberg	52.05	4735794	95.05	4.91	0.05	0	128	0	218123	5009288	No result	No result	SRS3529428	SRR7501727	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501730	15	Heidelberg	52.07	3840084	98.33	1.64	0.03	0	147	0	146840	4967868	No result	No result	SRS3529431	SRR7501730	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501736	548	Minnesota	52.16	4567562	95.58	4.41	0.01	0	182	0	112257	4907036	No result	No result	SRS3529437	SRR7501736	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7501737	15	Heidelberg	52.03	3771516	97.02	2.94	0.04	0	145	0	253533	5059542	No result	No result	SRS3529438	SRR7501737	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7501740	15	Heidelberg	52.01	3053360	92.97	7.03	0.01	0	113	0	178541	5034556	No result	No result	SRS3529441	SRR7501740	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506429	Unknown	Heidelberg	52.17	2549964	94.31	5.68	0.01	0	135	0	93631	5000431	No result	No result	SRS3533061	SRR7506429	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7506438	15	Heidelberg	52.06	2752630	96.68	3.31	0.01	0	104	0	276114	4963023	No result	No result	SRS3533066	SRR7506438	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506442	Unknown	Heidelberg	51.91	3145760	97.25	2.74	0.02	0	108	0	160580	5029823	No result	No result	SRS3533090	SRR7506442	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506444	Unknown	Heidelberg	51.96	3160226	98.16	1.83	0.02	0	134	0	138174	5040946	No result	No result	SRS3533073	SRR7506444	2017	Food	Poultry	Frozen Raw Frozen Boneless Skinless Marinated Chicken Inner Fillets	Brazil (import)	NA	UK Health Security Agency
+SRR7506453	15	Heidelberg	51.91	3286478	98.15	1.82	0.03	0	110	0	160217	5031644	No result	No result	SRS3533089	SRR7506453	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506454	15	Heidelberg	52.03	3001720	94.4	5.59	0.02	0	138	0	270015	4976697	No result	No result	SRS3533082	SRR7506454	2018	Food	Poultry	Frozen Raw Chicken Half Breast Boneless Skinless Without Inner Fillet	Brazil (import)	NA	UK Health Security Agency
+SRR7506732	Unknown	Minnesota	52.18	4155976	96.68	3.14	0.18	0	130	0	164660	4846670	No result	No result	SRS3533366	SRR7506732	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7506739	548	Minnesota	52.21	4190366	96.58	3.37	0.04	0	117	0	173067	4846159	No result	No result	SRS3533373	SRR7506739	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7506744	15	Heidelberg	52.08	3783044	95.92	4.07	0.01	0	146	0	171951	4921965	No result	No result	SRS3533378	SRR7506744	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506747	15	Heidelberg	52.01	3986430	96.54	3.42	0.04	0	129	0	235028	5034092	No result	No result	SRS3533381	SRR7506747	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7506805	15	Heidelberg	52.05	5429894	97.08	2.91	0.01	0	107	0	256691	4963629	No result	No result	SRS3533439	SRR7506805	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506821	15	Heidelberg	52.01	3650938	97.93	2.01	0.06	0	121	0	214740	5037934	No result	No result	SRS3533455	SRR7506821	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7506825	15	Heidelberg	52.07	3880878	81.05	18.94	0	0	146	0	186242	5033641	No result	No result	SRS3533459	SRR7506825	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506829	96	Schwarzengrund	52.03	2830072	92.42	7.57	0	0	189	0	214618	4771277	No result	No result	SRS3533463	SRR7506829	2016	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR7506831	15	Heidelberg	52	2329574	96.93	3.05	0.02	0	140	0	235028	5067832	No result	No result	SRS3533465	SRR7506831	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506863	Unknown	Agona	51.98	3894710	96.4	3.42	0.18	0	111	0	183131	4729482	No result	No result	SRS3533498	SRR7506863	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7506865	15	Heidelberg	52.07	4009958	96.94	2.99	0.07	0	141	0	229481	4975845	No result	No result	SRS3533497	SRR7506865	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7506872	Unknown	Heidelberg	52.08	3719524	94.48	5.52	0.01	0	138	0	195213	4927092	No result	No result	SRS3533505	SRR7506872	2017	Food	Poultry	Frozen Raw Chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7506909	15	Heidelberg	52.02	2548588	94.56	5.43	0.02	0	152	0	131950	5067520	No result	No result	SRS3533542	SRR7506909	2018	Food	Poultry	Frozen Raw Chicken Half Breast Boneless Skinless Without Inner Fillet	Brazil (import)	NA	UK Health Security Agency
+SRR7506921	15	Heidelberg	51.95	3802614	82.26	17.73	0.01	0	141	0	187688	5127399	No result	No result	SRS3533554	SRR7506921	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506928	Unknown	Heidelberg	52.09	3158732	93.78	6.22	0.01	0	118	0	159211	4978676	No result	No result	ERS9970817	SRR7506928	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7506939	15	Heidelberg	52.07	1982212	93.81	6.14	0.06	0	125	0	177262	4979626	No result	No result	SRS3533571	SRR7506939	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7506944	15	Heidelberg	52.02	1902156	95.12	4.86	0.02	0	159	0	145959	4998776	No result	No result	SRS3533576	SRR7506944	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7506973	50	Saintpaul	52.02	2842388	91.14	8.85	0.01	0	350	0	169389	5050243	No result	No result	SRS3533606	SRR7506973	2016	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR7507008	548	Minnesota	52.17	5363120	96.81	3.13	0.06	0	143	0	157491	4872583	No result	No result	SRS3533639	SRR7507008	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7511751	Unknown	Heidelberg	52.04	4385870	94.08	5.9	0.02	0	115	0	160224	4984204	No result	No result	SRS3537951	SRR7511751	2017	Food	Poultry	Frozen Raw Salted Chicken Breast Fillets	Brazil (import)	NA	UK Health Security Agency
+SRR7511761	15	Heidelberg	52.06	3699956	93.54	6.45	0.01	0	99	0	215033	4970655	No result	No result	SRS3537952	SRR7511761	2017	Food	Poultry	Frozen Raw Frozen Salted Chicken Breast	Brazil (import)	NA	UK Health Security Agency
+SRR7511765	15	Heidelberg	52.06	3735206	94.93	5.06	0.01	0	115	0	219758	4972936	No result	No result	SRS3537956	SRR7511765	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7511769	Unknown	Heidelberg	52.07	4392466	81.26	18.73	0.01	0	129	0	161686	5022562	No result	No result	SRS3537966	SRR7511769	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7511846	15	Heidelberg	52.02	3466432	93.58	6.41	0.01	0	110	0	235036	5030801	No result	No result	SRS3538075	SRR7511846	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7511849	15	Heidelberg	52.01	2850346	95.93	4.05	0.02	0	140	0	235028	5066949	No result	No result	SRS3538097	SRR7511849	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7511850	Unknown	Heidelberg	51.8	2195872	96.07	3.87	0.05	0	135	0	178936	5201903	No result	No result	SRS3538089	SRR7511850	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7511852	15	Heidelberg	51.99	3686448	98.22	1.77	0.01	0	147	0	161706	5041481	No result	No result	SRS3538082	SRR7511852	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7511895	15	Heidelberg	52.11	2249504	94.04	5.95	0.01	0	118	0	160491	5032732	No result	No result	SRS3538131	SRR7511895	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7511930	15	Heidelberg	52.08	3751902	94.66	5.33	0	0	159	0	161687	5034742	No result	No result	SRS3538160	SRR7511930	2017	Food	Poultry	Frozen Raw Salted Chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7511970	Unknown	Heidelberg	51.96	44328288	96.17	3.83	0.01	0	132	0	208820	5019049	No result	No result	SRS3538269	SRR7511970	2017	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7516246	548	Minnesota	52.17	1756148	97.61	2.32	0.07	0	129	0	164660	4845301	No result	No result	SRS3542612	SRR7516246	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516249	15	Heidelberg	52.02	2188146	98	1.98	0.02	0	103	0	160225	4996211	No result	No result	SRS3542607	SRR7516249	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516253	15	Heidelberg	52.08	2700512	93.98	5.97	0.04	0	162	0	161701	4924644	No result	No result	SRS3542627	SRR7516253	2017	Food	Poultry	Frozen Raw Salted (1.2%) Cut Chicken Breast Fillets Skinless Boneless	Brazil (import)	NA	UK Health Security Agency
+SRR7516262	15	Heidelberg	52.06	2973548	96.67	3.31	0.02	0	131	0	238688	4972815	No result	No result	SRS3542629	SRR7516262	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516266	15	Heidelberg	52	3269834	98.08	1.89	0.03	0	136	0	180723	5084233	No result	No result	SRS3542636	SRR7516266	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516286	15	Heidelberg	51.97	3877936	96.53	3.4	0.07	0	123	0	234811	5034798	No result	No result	SRS3542665	SRR7516286	2017	Food	Poultry	Frozen Half Chicken Breast Boneless Skinless Without Inner Fillet	Brazil (import)	NA	UK Health Security Agency
+SRR7516483	Unknown	Heidelberg	52.08	5023640	95.02	4.6	0.38	0	135	0	253602	5034568	No result	No result	SRS3542866	SRR7516483	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516491	Unknown	Minnesota	52.18	4910336	95.14	4.85	0.01	0	134	0	167798	4854050	No result	No result	SRS3542861	SRR7516491	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516492	15	Heidelberg	52.04	4653104	95.2	4.78	0.02	0	104	0	234803	5007112	No result	No result	SRS3542877	SRR7516492	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516522	15	Heidelberg	52.06	3550202	96.29	3.64	0.07	0	113	0	214739	4972420	No result	No result	SRS3542887	SRR7516522	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7516528	15	Heidelberg	52.01	1949922	95.56	4.42	0.02	0	119	0	234772	5067870	No result	No result	SRS3542900	SRR7516528	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516529	15	Heidelberg	52.22	3641188	97.13	2.84	0.03	0	379	0	33384	4961578	No result	No result	SRS3542906	SRR7516529	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7516557	15	Heidelberg	51.97	3750940	97.44	2.53	0.03	0	125	0	196543	5033448	No result	No result	SRS3542960	SRR7516557	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7516673	Unknown	Heidelberg	52.06	5224908	94.73	5.22	0.06	0	117	0	228345	4981297	No result	No result	SRS3542999	SRR7516673	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7516707	548	Minnesota	52.2	4295692	95.35	4.63	0.01	0	247	0	76350	4899291	No result	No result	SRS3543042	SRR7516707	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7516735	13	Agona	51.98	4364074	96.73	3.1	0.18	0	111	0	155041	4729625	No result	No result	SRS3543056	SRR7516735	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7516742	Unknown	Heidelberg	52.03	4252062	95.64	4.35	0.01	0	175	0	217829	4988491	No result	No result	SRS3543064	SRR7516742	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7523054	15	Heidelberg	51.93	2784330	95.78	4.2	0.02	0	156	0	215039	5095920	No result	No result	SRS3547431	SRR7523054	2017	Food	Poultry	Frozen Raw Salted (min1.2%) Cut Chicken Breast Fillets Skinless Boneless	Brazil (import)	NA	UK Health Security Agency
+SRR7523140	15	Heidelberg	52.07	3887184	82.1	17.9	0.01	0	160	0	193832	5027343	No result	No result	SRS3547512	SRR7523140	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7523175	15	Heidelberg	51.91	4953142	81.43	18.56	0.01	0	163	0	193832	5142118	No result	No result	SRS3547546	SRR7523175	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7523223	13	Agona	51.98	4743238	95.58	4.25	0.17	0	113	0	165530	4729143	No result	No result	SRS3547595	SRR7523223	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7523635	15	Heidelberg	52.01	2806228	92.25	7.74	0.01	0	127	0	214740	5036203	No result	No result	SRS3547988	SRR7523635	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7523679	Unknown	Heidelberg	52.04	2582742	96.46	3.49	0.06	0	117	0	200059	4946778	No result	No result	SRS3548033	SRR7523679	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7523805	15	Heidelberg	52.08	2940314	95.46	4.41	0.13	0	109	0	234803	5024473	No result	No result	SRS3548156	SRR7523805	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7523815	Unknown	Saintpaul	52.02	3924012	93.95	6.05	0	0	218	0	212170	5002280	No result	No result	SRS3548168	SRR7523815	2016	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR7523846	15	Heidelberg	52.07	2924940	95.96	3.97	0.07	0	108	0	214739	4973305	No result	No result	SRS3548198	SRR7523846	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7527770	Unknown	Heidelberg	52.02	1895406	98.65	1.34	0.01	0	147	0	202665	5158022	No result	No result	SRS3551281	SRR7527770	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7527967	15	Heidelberg	51.95	3247070	96.85	3.08	0.07	0	126	0	178586	5119477	No result	No result	SRS3551478	SRR7527967	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7528169	Unknown	Heidelberg	52	5137018	96.33	3.54	0.13	0	138	0	197235	5066996	No result	No result	SRS3551680	SRR7528169	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7533304	15	Heidelberg	51.9	5353228	97.72	2.24	0.03	0	137	0	171983	5059552	No result	No result	SRS3555772	SRR7533304	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7533346	15	Heidelberg	52.08	3117330	95.66	4.34	0.01	0	155	0	161688	4927389	No result	No result	SRS3555813	SRR7533346	2017	Food	Poultry	Frozen Raw Chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7533349	Unknown	Heidelberg	52.03	3850232	98.01	1.94	0.05	0	119	0	276121	5064934	No result	No result	SRS3555815	SRR7533349	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7533524	15	Heidelberg	52.01	2894060	97.89	2.09	0.02	0	124	0	184203	5001895	No result	No result	SRS3555982	SRR7533524	2017	Food	Poultry	Frozen Raw Salted Chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7533535	Unknown	Heidelberg	51.78	3726190	98.31	1.66	0.03	0	145	0	161687	5265816	No result	No result	SRS3555993	SRR7533535	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7538314	13	Agona	51.98	3985928	95.59	4.23	0.18	0	110	0	165530	4728682	No result	No result	SRS3560108	SRR7538314	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7538824	15	Heidelberg	52	2858514	96.79	3.18	0.03	0	125	0	268681	5022298	No result	No result	SRS3560317	SRR7538824	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7828177	15	Heidelberg	52.03	2593658	96.49	3.47	0.04	0	108	0	228362	5051812	No result	No result	SRS3772940	SRR7828177	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7828268	15	Heidelberg	52.01	3628414	89.85	10.12	0.03	0	123	0	215026	5038348	No result	No result	SRS3773027	SRR7828268	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7828407	15	Heidelberg	52.04	2714296	94.45	5.5	0.05	0	104	0	266140	4967051	No result	No result	SRS3773165	SRR7828407	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7828515	15	Heidelberg	52.01	4879662	96.32	3.63	0.04	0	130	0	269983	5066018	No result	No result	SRS3773273	SRR7828515	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7841331	Unknown	Heidelberg	52.01	2626264	88.89	11.08	0.03	0	120	0	215026	5040154	No result	No result	SRS3785512	SRR7841331	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7841384	15	Heidelberg	52.09	2679320	87.33	12.64	0.03	0	93	0	234803	4905953	No result	No result	SRS3785565	SRR7841384	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7841572	Unknown	Heidelberg	52.03	3902602	97.18	2.78	0.04	0	115	0	197552	5042500	No result	No result	SRS3785720	SRR7841572	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7841621	15	Heidelberg	52.03	6022050	96.09	3.88	0.03	0	133	0	160217	5040764	No result	No result	SRS3785767	SRR7841621	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7850509	15	Heidelberg	52.01	5478732	95.84	4.11	0.04	0	126	0	270101	5064964	No result	No result	SRS3787592	SRR7850509	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7850526	15	Heidelberg	51.91	3126722	97.62	2.33	0.04	0	182	0	201813	5075963	No result	No result	SRS3787609	SRR7850526	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7850573	15	Heidelberg	52.08	1954646	96.3	3.66	0.04	0	120	0	187804	5018489	No result	No result	SRS3787656	SRR7850573	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7850613	15	Heidelberg	51.92	3470504	97.64	2.31	0.05	0	175	0	214692	5080111	No result	No result	SRS3787696	SRR7850613	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7850703	Unknown	Heidelberg	52.02	12088750	96.13	3.84	0.03	0	128	0	229521	4996559	No result	No result	SRS3787786	SRR7850703	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7866922	Unknown	Heidelberg	52.03	4594932	97.23	2.72	0.05	0	112	0	189518	5054451	No result	No result	SRS3791863	SRR7866922	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7867011	Unknown	Heidelberg	52.03	4222306	94.79	5.17	0.04	0	120	0	197263	5041278	No result	No result	SRS3791953	SRR7867011	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7867017	15	Heidelberg	51.92	5186268	96.7	3.25	0.05	0	171	0	197236	5127069	No result	No result	SRS3791959	SRR7867017	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7867129	Unknown	Heidelberg	52	4886648	97.06	2.88	0.06	0	146	0	197640	5073847	No result	No result	SRS3792070	SRR7867129	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7867158	Unknown	Heidelberg	52.01	5332756	95.99	3.96	0.04	0	122	0	202962	5065318	No result	No result	SRS3792100	SRR7867158	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7867306	15	Heidelberg	52.06	4763056	96.94	3.03	0.03	0	106	0	229762	5013534	No result	No result	SRS3792210	SRR7867306	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7873893	15	Heidelberg	52.07	4439894	96.51	3.43	0.06	0	116	0	161682	4968303	No result	No result	SRS3798546	SRR7873893	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7873916	Unknown	Heidelberg	52	4089374	94.76	5.19	0.05	0	117	0	342238	5069396	No result	No result	SRS3798568	SRR7873916	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7873918	15	Heidelberg	52.1	2631038	97.39	2.58	0.02	0	109	0	198018	4940916	No result	No result	SRS3798571	SRR7873918	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7879366	15	Heidelberg	52.01	3396952	97.93	2.04	0.03	0	121	0	156316	5062225	No result	No result	SRS3803532	SRR7879366	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7879475	15	Heidelberg	52.09	5612988	95.21	4.75	0.04	0	145	0	146328	4935589	No result	No result	SRS3803638	SRR7879475	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7890500	548	Minnesota	52.19	3389324	96.7	3.12	0.18	0	150	0	145766	4755765	No result	No result	SRS3811551	SRR7890500	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7892139	15	Heidelberg	52	2308124	94.44	5.55	0.01	0	132	0	178068	5068598	No result	No result	SRS3812148	SRR7892139	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7892265	15	Heidelberg	52.04	3774106	93.8	6.19	0.01	0	109	0	217789	5019703	No result	No result	SRS3812271	SRR7892265	2017	Food	Poultry	Frozen boneless skinless chicken breast in halves salted 1.2 -1.6%	Brazil (import)	NA	UK Health Security Agency
+SRR7902634	548	Minnesota	52.21	2442070	96.16	3.77	0.08	0	126	0	184970	4846693	No result	No result	SRS3820814	SRR7902634	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7902694	15	Heidelberg	52.06	2790946	93.49	3.38	0	0	116	0	197178	4970770	No result	No result	SRS3820873	SRR7902694	2017	Food	ND	food	United Kingdom	NA	UK Health Security Agency
+SRR7911440	Unknown	Heidelberg	52.08	3084212	98.05	1.92	0.02	0	131	0	197475	4985426	No result	No result	SRS3827407	SRR7911440	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7911511	15	Heidelberg	52.01	5536598	97.13	2.82	0.04	0	131	0	234803	5066597	No result	No result	SRS3827476	SRR7911511	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7962120	Unknown	Heidelberg	52.17	1273796	94.88	5.11	0.01	0	150	0	99383	4996130	No result	No result	SRS3874929	SRR7962120	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7962183	15	Heidelberg	52.08	3816560	96.71	3.28	0	0	108	0	197475	4983965	No result	No result	SRS3874992	SRR7962183	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7962252	548	Minnesota	52.15	2194234	93.56	6.43	0.01	0	166	0	157020	4906027	No result	No result	SRS3875061	SRR7962252	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR7962257	15	Heidelberg	52.04	3487932	95.44	4.55	0	0	147	0	253428	5048347	No result	No result	SRS3875066	SRR7962257	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR7996744	Unknown	Heidelberg	51.85	2711572	92.57	7.41	0.02	0	152	0	161672	5233625	No result	No result	SRS3899215	SRR7996744	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7996762	Unknown	Heidelberg	51.88	2925752	96.03	3.93	0.04	0	139	0	138236	5060089	No result	No result	SRS3899232	SRR7996762	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7998248	15	Heidelberg	52.03	4591870	95.51	4.45	0.04	0	146	0	216661	5015659	No result	No result	SRS3899690	SRR7998248	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR7998256	15	Heidelberg	52.03	4912516	94.35	5.62	0.03	0	110	0	256810	5020051	No result	No result	SRS3899698	SRR7998256	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8084194	Unknown	Heidelberg	52.02	2132326	98.02	1.94	0.04	0	137	0	215036	5015022	No result	No result	SRS3956963	SRR8084194	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8087134	15	Heidelberg	52.03	3009168	95.64	4.34	0.02	0	132	0	196031	5117915	No result	No result	SRS3959468	SRR8087134	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8087195	Unknown	Heidelberg	52.06	3216792	95.28	4.68	0.04	0	113	0	234803	4965297	No result	No result	SRS3959526	SRR8087195	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8087216	15	Heidelberg	52.04	3664050	96.18	3.8	0.02	0	136	0	170875	5119489	No result	No result	SRS3959547	SRR8087216	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8097937	15	Heidelberg	52.04	2912208	97.63	2.35	0.02	0	126	0	214732	5119134	No result	No result	SRS3970017	SRR8097937	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8106746	15	Heidelberg	52.04	2508026	97.35	2.62	0.02	0	131	0	216665	5120392	No result	No result	SRS3977994	SRR8106746	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8106756	15	Heidelberg	52.09	3014010	97.96	2	0.04	0	118	0	171996	4954936	No result	No result	SRS3978004	SRR8106756	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8116968	Unknown	Heidelberg	52.03	2355436	95.24	4.64	0.12	0	107	0	234802	4980784	No result	No result	SRS3985993	SRR8116968	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8116986	15	Heidelberg	52.01	3231590	92.53	7.36	0.11	0	127	0	169336	4974429	No result	No result	SRS3986011	SRR8116986	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8116991	15	Heidelberg	52.03	3402168	95.04	4.85	0.11	0	106	0	234802	4980033	No result	No result	SRS3986016	SRR8116991	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8137377	15	Heidelberg	52.03	3211752	96.31	3.69	0	0	110	0	208061	5075115	No result	No result	SRS3998275	SRR8137377	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8149137	15	Heidelberg	52.01	3032986	94.57	5.32	0.11	0	131	0	159450	4974943	No result	No result	SRS4008527	SRR8149137	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8149190	15	Heidelberg	51.99	3577620	98.88	1.09	0.03	0	137	0	178532	5067612	No result	No result	SRS4008578	SRR8149190	2018	Food	Poultry	Chicken Pieces - Fresh	Brazil (import)	NA	UK Health Security Agency
+SRR8149386	Unknown	Heidelberg	52.05	3301990	98.94	1.03	0.02	0	131	0	201586	4962019	No result	No result	SRS4008679	SRR8149386	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8149391	Unknown	Heidelberg	52.02	3960244	95.89	3.99	0.12	0	147	0	184732	5026359	No result	No result	SRS4008681	SRR8149391	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8149396	15	Heidelberg	52.03	5949362	93.29	6.68	0.03	0	99	0	253714	4990129	No result	No result	SRS4008688	SRR8149396	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8166210	15	Heidelberg	52.05	1989368	98.7	1.28	0.02	0	118	0	156309	4956690	No result	No result	SRS4023708	SRR8166210	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8166239	15	Heidelberg	52.02	5865454	92.14	7.85	0.01	0	111	0	196039	4971503	No result	No result	SRS4023738	SRR8166239	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8166251	15	Heidelberg	52.01	5508430	97.11	2.87	0.02	0	132	0	160217	5028875	No result	No result	SRS4023749	SRR8166251	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8181668	15	Heidelberg	52.06	10240298	86.83	13.16	0.02	0	117	0	196032	4964460	No result	No result	SRS4036343	SRR8181668	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8182966	Unknown	Heidelberg	52.06	7694108	83.91	16.08	0.01	0	109	0	234803	4964260	No result	No result	SRS4037340	SRR8182966	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8183079	Unknown	Heidelberg	52	6092024	81.02	18.97	0.01	0	145	0	171963	5071701	No result	No result	SRS4037453	SRR8183079	2018	Food	Poultry	Chicken Pieces - Fresh	Brazil (import)	NA	UK Health Security Agency
+SRR8184523	15	Heidelberg	52.06	4093184	86.03	13.95	0.01	0	115	0	232666	4966528	No result	No result	SRS4038870	SRR8184523	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8201801	15	Heidelberg	52.03	3171618	96.01	3.95	0.04	0	107	0	235590	4949469	No result	No result	SRS4053942	SRR8201801	2018	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8201851	548	Minnesota	52.15	4436622	97.69	2.26	0.05	0	167	0	166432	4913240	No result	No result	SRS4053992	SRR8201851	2018	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8204033	Unknown	Heidelberg	52.03	2708286	93.5	6.48	0.02	0	113	0	197640	5019508	No result	No result	SRS4055267	SRR8204033	2018	Food	Poultry	Frozen chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8204038	15	Heidelberg	52.15	4801374	95.83	4.15	0.02	0	131	0	269854	4968945	No result	No result	SRS4055272	SRR8204038	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8204046	Unknown	Heidelberg	51.9	4647236	92.75	7.22	0.02	0	143	0	160423	5046003	No result	No result	SRS4055280	SRR8204046	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8204047	15	Heidelberg	52.1	4379310	95.21	4.77	0.02	0	123	0	138166	4938766	No result	No result	SRS4055281	SRR8204047	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8204757	Unknown	Heidelberg	52.01	4041164	96.8	3.17	0.02	0	127	0	186453	5028222	No result	No result	SRS4055793	SRR8204757	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8204775	15	Heidelberg	52.05	4275114	95.43	4.55	0.02	0	120	0	161697	4942908	No result	No result	SRS4055811	SRR8204775	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8258034	Unknown	Heidelberg	52.08	2067976	97.75	2.21	0.04	0	122	0	161692	4914207	No result	No result	SRS4088851	SRR8258034	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8269048	15	Heidelberg	52.07	3024360	91.13	8.85	0.02	0	123	0	160423	5021835	No result	No result	SRS4098313	SRR8269048	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8269067	15	Heidelberg	52.04	4265550	96.77	3.22	0.01	0	117	0	234547	5015262	No result	No result	SRS4098332	SRR8269067	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8269085	15	Heidelberg	52.08	5177528	96.88	3.12	0.01	0	107	0	276114	4938074	No result	No result	SRS4098350	SRR8269085	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8272515	15	Heidelberg	52.04	2077728	96.99	2.97	0.04	0	104	0	235036	4987863	No result	No result	SRS4100949	SRR8272515	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8272619	15	Heidelberg	52.04	4701280	89.23	10.66	0.11	0	115	0	216710	4988589	No result	No result	SRS4101053	SRR8272619	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8325581	15	Heidelberg	52.07	3136678	94.99	4.97	0.04	0	164	0	216661	4998412	No result	No result	SRS4149693	SRR8325581	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8325586	Unknown	Minnesota	52.17	4008278	95.13	4.82	0.04	0	119	0	166425	4811830	No result	No result	SRS4149698	SRR8325586	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8333790	15	Heidelberg	52.03	5247686	97.3	2.65	0.04	0	113	0	253714	5040465	No result	No result	SRS4155688	SRR8333790	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8361487	15	Heidelberg	52	6278542	96.74	3.23	0.04	0	129	0	253419	5066992	No result	No result	SRS4179611	SRR8361487	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8367054	15	Heidelberg	51.93	4498128	95.48	4.48	0.04	0	166	0	199210	5117294	No result	No result	SRS4184638	SRR8367054	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8382001	15	Heidelberg	51.91	2178920	96.14	3.82	0.04	0	160	0	215000	5076205	No result	No result	SRS4198011	SRR8382001	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8405192	15	Heidelberg	52.04	2307306	97.03	2.93	0.04	0	109	0	197980	5097502	No result	No result	SRS4220945	SRR8405192	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8427103	15	Heidelberg	51.99	2345618	96.02	3.86	0.11	0	111	0	178590	5065446	No result	No result	SRS4238793	SRR8427103	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8438016	15	Heidelberg	52	3620902	97.25	2.72	0.03	0	115	0	268681	5018499	No result	No result	SRS4247852	SRR8438016	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8438040	15	Heidelberg	51.89	5392796	97.43	2.53	0.03	0	142	0	196032	5097359	No result	No result	SRS4248031	SRR8438040	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8441126	15	Heidelberg	52.01	7525112	95.96	3.97	0.06	0	122	0	181601	5034505	No result	No result	SRS4250640	SRR8441126	2018	Food	Poultry	Chicken - Frozen Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8445021	Unknown	Heidelberg	51.89	3183296	97.74	2.23	0.03	0	131	0	168195	5096039	No result	No result	SRS4253860	SRR8445021	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8452322	15	Heidelberg	51.89	4170270	97.55	2.42	0.03	0	126	0	224545	5096416	No result	No result	SRS4260143	SRR8452322	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8484234	15	Heidelberg	52.01	9351406	87.45	12.54	0.02	0	126	0	169336	4974734	No result	No result	SRS4288474	SRR8484234	2018	Food	Poultry	Chicken Pieces - Fresh	Brazil (import)	NA	UK Health Security Agency
+SRR8485188	Unknown	Heidelberg	51.78	7398004	95.68	4.28	0.04	0	163	0	192329	5267052	No result	No result	SRS4289395	SRR8485188	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8490706	15	Heidelberg	52.05	3087476	97.08	2.57	0.35	0	111	0	215026	5005451	No result	No result	SRS4294439	SRR8490706	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8490731	15	Heidelberg	52.03	4609184	93.47	6.49	0.04	0	100	0	203007	5039251	No result	No result	SRS4294464	SRR8490731	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8490749	Unknown	Heidelberg	52.09	3020080	96.82	3.14	0.04	0	129	0	151149	4954214	No result	No result	SRS4294482	SRR8490749	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8490781	15	Heidelberg	52.15	3082414	94.77	5.22	0.02	0	135	0	234547	4970098	No result	No result	SRS4294514	SRR8490781	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8490815	15	Heidelberg	51.99	5408020	92.62	7.36	0.02	0	153	0	196044	5162759	No result	No result	SRS4294547	SRR8490815	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8490839	15	Heidelberg	52.04	5062868	94.66	5.29	0.05	0	109	0	217789	4989382	No result	No result	SRS4294571	SRR8490839	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8492287	Unknown	Heidelberg	52	4036934	96.25	3.74	0.01	0	119	0	253380	5074511	No result	No result	SRS4295894	SRR8492287	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8492338	15	Heidelberg	52	3201122	96.57	3.3	0.13	0	144	0	184248	5065448	No result	No result	SRS4295945	SRR8492338	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8492356	15	Heidelberg	52.05	1974326	96.75	3.23	0.02	0	106	0	197639	4959655	No result	No result	SRS4295963	SRR8492356	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8492388	15	Heidelberg	52.04	5010732	96.97	2.99	0.04	0	137	0	197595	5022922	No result	No result	SRS4295994	SRR8492388	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8492398	Unknown	Heidelberg	52.01	2141752	96.33	3.65	0.02	0	135	0	234803	5067504	No result	No result	SRS4296004	SRR8492398	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8492418	15	Heidelberg	52.04	4409266	97.22	2.74	0.04	0	134	0	217789	5012255	No result	No result	SRS4296024	SRR8492418	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8499033	15	Heidelberg	52	3229950	96.79	3.07	0.13	0	133	0	253419	5065809	No result	No result	SRS4301050	SRR8499033	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8499341	Unknown	Heidelberg	52.04	4055246	96.12	3.85	0.04	0	135	0	216594	5029246	No result	No result	SRS4301355	SRR8499341	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8509076	Unknown	Infantis	52.12	2577476	92.84	7.16	0	0	173	0	180506	4990334	No result	No result	SRS4309944	SRR8509076	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8514524	15	Heidelberg	52.29	2132774	97.28	2.71	0.01	0	309	0	34602	4877469	No result	No result	SRS4313988	SRR8514524	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8514757	15	Heidelberg	52.08	2320074	96.8	3.17	0.03	0	125	0	197235	4926563	No result	No result	SRS4314195	SRR8514757	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8515711	15	Heidelberg	52.2	1850952	93.7	6.29	0.01	0	175	0	89249	4982105	No result	No result	SRS4315115	SRR8515711	2018	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8515738	15	Heidelberg	52.01	3873180	97.75	2.23	0.02	0	111	0	160582	5060438	No result	No result	SRS4315141	SRR8515738	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8515740	15	Heidelberg	52.08	2512442	96.86	3.1	0.03	0	123	0	179712	4925949	No result	No result	SRS4315143	SRR8515740	2018	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8515743	15	Heidelberg	52.06	8424472	93.53	6.46	0.01	0	115	0	256969	4974718	No result	No result	SRS4315229	SRR8515743	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517829	15	Heidelberg	51.83	3919976	97.96	2	0.04	0	135	0	157867	5174243	No result	No result	SRS4317141	SRR8517829	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517830	15	Heidelberg	52.06	4863396	97.74	2.22	0.04	0	111	0	248711	4964033	No result	No result	SRS4317142	SRR8517830	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517831	15	Heidelberg	52.03	4105190	94.46	5.37	0.17	0	124	0	196040	5010489	No result	No result	SRS4317143	SRR8517831	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517832	15	Heidelberg	52.02	3815444	94.16	5.84	0.01	0	107	0	253428	4912735	No result	No result	SRS4317144	SRR8517832	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517833	15	Heidelberg	52.04	4472694	97.32	2.62	0.06	0	161	0	109491	5111564	No result	No result	SRS4317145	SRR8517833	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517834	Unknown	Heidelberg	52.02	2865204	97.94	2.04	0.02	0	103	0	184208	4996918	No result	No result	SRS4317146	SRR8517834	2017	Food	Poultry	Frozen Raw Frozen Boneless Skinless Chicken Breast In Halves (salted 1.2%-1.6%)	Brazil (import)	NA	UK Health Security Agency
+SRR8517835	15	Heidelberg	52.08	4106516	80.31	19.68	0	0	158	0	180980	5034857	No result	No result	SRS4317147	SRR8517835	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517836	Unknown	Heidelberg	52.01	3390590	96.02	3.8	0.18	0	124	0	196040	5049446	No result	No result	SRS4317148	SRR8517836	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517837	Unknown	Give	52.21	3772338	93.5	6.49	0.02	0	122	0	191637	4620852	No result	No result	SRS4317149	SRR8517837	2015	Food	Swine	Pigs ears	Brazil (import)	NA	UK Health Security Agency
+SRR8517838	15	Heidelberg	51.94	3916726	80.57	19.42	0.01	0	129	0	197335	5127464	No result	No result	SRS4317150	SRR8517838	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517839	15	Heidelberg	52.05	3845004	90.96	9.01	0.02	0	119	0	253714	4993445	No result	No result	SRS4317151	SRR8517839	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517840	548	Minnesota	52.21	3295448	92.93	7.03	0.04	0	144	0	184970	4845950	No result	No result	SRS4317152	SRR8517840	2017	Food	Poultry	Frozen Chicken Half Breast Bless Sless Without Inner Fillet Salted	Brazil (import)	NA	UK Health Security Agency
+SRR8517841	15	Heidelberg	52.04	4078050	98.5	1.46	0.04	0	110	0	193850	5007956	No result	No result	SRS4317153	SRR8517841	2017	Food	Poultry	Raw chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517842	548	Minnesota	52.21	3773722	93.65	6.3	0.06	0	142	0	179742	4846167	No result	No result	SRS4317154	SRR8517842	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517843	15	Heidelberg	52.03	4051574	94.03	5.96	0.01	0	125	0	232801	5015480	No result	No result	SRS4317155	SRR8517843	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517844	15	Heidelberg	52.08	3210298	87.92	12.07	0.01	0	167	0	193832	5035651	No result	No result	SRS4317156	SRR8517844	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517845	15	Heidelberg	52.02	3755618	96.54	3.39	0.07	0	109	0	253722	4914899	No result	No result	SRS4317157	SRR8517845	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517846	15	Heidelberg	52.06	2452024	94.02	5.93	0.05	0	99	0	228334	4980015	No result	No result	SRS4317158	SRR8517846	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517847	Unknown	Heidelberg	52.07	4588768	96.12	3.87	0.02	0	115	0	230871	4929286	No result	No result	SRS4317159	SRR8517847	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517848	15	Heidelberg	52.08	5068414	96.39	3.4	0.21	0	108	0	253602	5022148	No result	No result	SRS4317160	SRR8517848	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517849	15	Heidelberg	52.06	6155330	97.5	2.44	0.06	0	168	0	89249	5109016	No result	No result	SRS4317161	SRR8517849	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517850	548	Minnesota	52.24	3993766	96.46	3.47	0.07	0	154	0	153375	4965921	No result	No result	SRS4317162	SRR8517850	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8517851	548	Minnesota	52.17	5283170	94.49	5.5	0.01	0	194	0	119852	4900872	No result	No result	SRS4317163	SRR8517851	2017	Food	Poultry	salted chicken	Brazil (import)	NA	UK Health Security Agency
+SRR8517852	15	Heidelberg	52.42	2735376	98.06	1.93	0.01	0	436	0	26433	4864339	No result	No result	SRS4317164	SRR8517852	2018	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8524611	Unknown	Heidelberg	52.01	3436080	96.12	3.83	0.04	0	120	0	297505	5041817	No result	No result	SRS4322197	SRR8524611	2018	Food	Poultry	Frozen Chicken Half Breast Bl Sl Without Inner Fillet Salted	Brazil (import)	NA	UK Health Security Agency
+SRR8661063	548	Minnesota	52.2	4980274	95.96	1.5	0	0	105	0	179744	4749217	No result	No result	SRS4432266	SRR8661063	2016	Human	Human	Homo sapiens; human	United Kingdom	NA	UK Health Security Agency
+SRR8833188	Unknown	Heidelberg	52.02	4540816	94.85	5.1	0.05	0	157	0	161697	5031991	No result	No result	SRS4567468	SRR8833188	2013	Food	Poultry	Raw poultry	Brazil (import)	NA	UK Health Security Agency
+SRR8833189	65	Brandenburg	52.21	3841096	96.55	3.39	0.06	0	101	0	214803	4564166	No result	No result	SRS4567469	SRR8833189	2013	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8833277	14	Senftenberg	51.92	4745042	96.16	3.78	0.06	0	134	0	223642	4812515	No result	No result	SRS4567554	SRR8833277	2014	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR8833278	50	Saintpaul	52.06	5521448	96.71	3.23	0.06	0	153	0	234342	4939984	No result	No result	SRS4567555	SRR8833278	2016	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR8833298	Unknown	Agona	52.05	3385176	95.63	4.32	0.06	0	146	0	184203	4901528	No result	No result	SRS4567575	SRR8833298	2013	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR8833299	15	Heidelberg	52.08	4128796	95.61	4.33	0.06	0	108	0	234803	4917790	No result	No result	SRS4567576	SRR8833299	2014	Food	Poultry	Chicken - Fresh Whole	Brazil (import)	NA	UK Health Security Agency
+SRR8833300	Unknown	Heidelberg	52.06	4279034	95.77	4.17	0.06	0	115	0	234803	4931885	No result	No result	SRS4567577	SRR8833300	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8833363	13	Agona	52.02	4181300	96.53	3.41	0.06	0	110	0	184203	4817489	No result	No result	SRS4567624	SRR8833363	2013	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR8833364	65	Brandenburg	52.15	4399626	96.41	3.53	0.06	0	116	0	217055	4613445	No result	No result	SRS4567625	SRR8833364	2013	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR8839357	Unknown	Heidelberg	52.04	3703494	95.49	4.46	0.06	0	106	0	256948	4988817	No result	No result	SRS4572494	SRR8839357	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8839358	Unknown	Heidelberg	52.03	4106944	95.22	4.73	0.06	0	110	0	196032	4996818	No result	No result	SRS4572495	SRR8839358	2017	Food	Poultry	Chicken Pieces - Frozen	Brazil (import)	NA	UK Health Security Agency
+SRR8856647	14	Senftenberg	51.92	5357842	93.84	6.11	0.05	0	114	0	207169	4810679	No result	No result	SRS4590030	SRR8856647	2014	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR8861997	14	Senftenberg	51.92	4190322	96.18	3.76	0.05	0	136	0	223690	4812570	No result	No result	SRS4594775	SRR8861997	2014	Food	Poultry	Turkey	Brazil (import)	NA	UK Health Security Agency
+SRR8863367	Unknown	Mbandaka	51.95	4626840	96.32	3.65	0.03	0	186	0	168889	4961801	No result	No result	SRS4596073	SRR8863367	2009	Food	Poultry	Dogchew	Brazil (import)	NA	UK Health Security Agency
+SRR8863369	Unknown	Heidelberg	52.02	3797226	96.43	3.52	0.06	0	127	0	215026	5027518	No result	No result	SRS4596075	SRR8863369	2013	Food	Poultry	Raw poultry	Brazil (import)	NA	UK Health Security Agency
+SRR8863370	316	Montevideo	52.14	3187134	92.59	7.38	0.02	0	96	0	210563	4705645	No result	No result	SRS4596076	SRR8863370	2009	Food	ND	Dogchew	Brazil (import)	NA	UK Health Security Agency
+SRR8863371	Unknown	Senftenberg	52.03	3324164	97.55	2.42	0.03	0	225	0	119777	5197932	No result	No result	SRS4596077	SRR8863371	2009	Food	ND	Dogchew	Brazil (import)	NA	UK Health Security Agency
+SRR8863374	217	Senftenberg	52.03	4206086	98.32	1.64	0.03	0	255	0	110303	5201282	No result	No result	SRS4596079	SRR8863374	2009	Food	ND	Dogchew	Brazil (import)	NA	UK Health Security Agency
+SRR8863377	Unknown	Senftenberg	52.03	3682838	97.15	2.83	0.03	0	220	0	119777	5182015	No result	No result	SRS4596082	SRR8863377	2009	Food	ND	Dogchew	Brazil (import)	NA	UK Health Security Agency
+SRR8866679	217	Senftenberg	52.02	5072876	96.93	3.04	0.03	0	233	0	122923	5159681	No result	No result	SRS4598884	SRR8866679	2009	Food	ND	Dogchew	Brazil (import)	NA	UK Health Security Agency
+SRR9261107	15	Heidelberg	52.08	3933838	93.31	10.7	0	0	144	0	198896	5038668	No result	No result	SRS4935117	SRR9261107	2019	Food	ND	food	United Kingdom	NA	UK Health Security Agency
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
